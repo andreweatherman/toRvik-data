@@ -1,0 +1,13 @@
+
+Package: toRvikdata
+Title: Dummy description for GHA workflow
+Version: 1.0.0
+Authors@R: 
+    c(person(given = "Andrew",
+             family = "Weatherman",
+             role = c("aut", "cre"),
+             email = "taw38@duke.edu"))
+Description: Dummy description for GHA workflow
+Imports: tidyverse, rvest, janitor, withr
+License: MIT
+VignetteBuilder: knitr, rmarkdown
