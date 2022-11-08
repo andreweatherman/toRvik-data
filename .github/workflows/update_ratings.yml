@@ -26,8 +26,5 @@ jobs:
           git config --local user.name "Github Action"
           git pull
           git add .
-          git commit -m "[GHA] updated current ratings"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  
+          git commit -m "[GHA] updated current ratings" || "no changes to commit"
+          git push || echo "No changes to commit"
