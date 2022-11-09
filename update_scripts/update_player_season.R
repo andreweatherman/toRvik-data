@@ -112,6 +112,9 @@ all <- update_player_season(year = 2023, stat='all')
 to_save <- list(box, shooting, adv, all)
 names <- c('box','shooting', 'advanced', 'all')
 
+# set wd
+setwd('~/torvik-data')
+
 # save as .RDS
 map2(
     .x = to_save,
