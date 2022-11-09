@@ -33,6 +33,9 @@ get_archive <- function(date) {
   })
 }
 
+# set date
+Sys.setenv(TZ='EST')
+
 # set date for function
 date_to_pull <- gsub('-', '', Sys.Date() - 2)
 
@@ -45,7 +48,7 @@ setwd('~/torvik-data')
 # write file
 write.csv(
   archive,
-  paste0('ratings/archive/by_date/', gsub('-', '', Sys.Date() - 1))
+  paste0('ratings/archive/by_date/ratings_archive_', gsub('-', '', Sys.Date() - 1), '.csv')
 )
 
 # push to repo
