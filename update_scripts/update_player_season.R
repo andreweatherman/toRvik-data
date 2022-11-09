@@ -127,5 +127,5 @@ map2(
 # push to github
 system('git pull')
 system('git add .')
-system("git commit -m '[VM] update player season stats'")
+system("git commit -m '[VM PUSH] update player season stats'")
 system('git push')
