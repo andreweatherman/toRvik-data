@@ -55,12 +55,13 @@ get_ratings <- function(year) {
 ratings <- get_ratings(2023)
 
 # write to .csv
-readr::write_csv(
+write.csv(
   ratings,
   file = '../ratings/ratings_2023.csv'
 )
 
 # push to github
+system('git pull')
 system('git add ../ratings/ratings_2023.csv')
 system("git commit -m '[VM PUSH] update ratings'")
 system('git push')
