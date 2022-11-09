@@ -37,7 +37,7 @@ get_archive <- function(date) {
 Sys.setenv(TZ='EST')
 
 # set date for function
-date_to_pull <- gsub('-', '', Sys.Date() - 2)
+date_to_pull <- gsub('-', '', Sys.Date() - 1)
 
 # pull ratings
 archive <- get_archive(date_to_pull)
