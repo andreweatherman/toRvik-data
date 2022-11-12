@@ -1,5 +1,6 @@
 library(tidyverse)
 library(withr)
+library(arrow)
 
 update_player_game <- function(year = current_season(), stat = "all") {
   suppressWarnings({
@@ -119,7 +120,7 @@ map2(
   .x = to_save,
   .y = names,
   .f = function(x, y) {
-    write_rds(x, file = paste0('player_game/', y, '_2023.rds'))
+    arrow::write_parquet(x, sink = paste0('player_game/', y, '_2023.parquet'))
   }
 )
 
