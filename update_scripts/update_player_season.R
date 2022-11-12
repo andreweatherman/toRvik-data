@@ -1,5 +1,6 @@
 library(tidyverse)
 library(withr)
+library(arrow)
 
 # define function
 update_player_season <- function(year = current_season(), stat = 'all', conf_only = FALSE) {
@@ -120,7 +121,7 @@ map2(
     .x = to_save,
     .y = names,
     .f = function(x, y) {
-        write_rds(x, file = paste0('player_season/', y, '_2023.rds'))
+        arrow::write_parquet(x, sink = paste0('player_season/', y, '_2023.parquet'))
     }
 )
 
