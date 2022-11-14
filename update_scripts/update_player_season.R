@@ -121,7 +121,7 @@ map2(
     .x = to_save,
     .y = names,
     .f = function(x, y) {
-        arrow::write_parquet(x, sink = paste0('player_season/', y, '_2023.parquet'))
+        arrow::write_parquet(x, sink = paste0('player_season/2023/', y, '_2023.parquet'))
     }
 )
 
