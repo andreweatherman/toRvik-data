@@ -69,5 +69,5 @@ map2(
 # push to github
 system('git pull')
 system('git add .')
-system("git commit -m '[VM PUSH] update team schedules")
+system("git commit -m '[VM PUSH] update team schedules'")
 system('git push')
