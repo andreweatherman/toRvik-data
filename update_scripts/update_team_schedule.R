@@ -12,6 +12,7 @@ update_team_schedule <- function(year=current_season(), team=NULL) {
     }
     else {
       team <- gsub(" ","+", team)
+      team <- gsub("&", "%26", team)
       names <- c('date','type','team','conf','opp','loc','result','adj_o','adj_d','ppp','efg',
                  'to','or','ftr','def_ppp','def_efg','def_to','def_or','def_ftr','game_score',
                  'opp_conf','year','poss','game_id','coach','opp_coach','lead_diff')
