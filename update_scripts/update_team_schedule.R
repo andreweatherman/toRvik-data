@@ -56,6 +56,9 @@ data <- map(
     }
 )
 
+# create one large df
+all <- map_dfr(data, .f = function(l) l)
+
 # save each as .csv
 map2(
     .x = 1:length(teams),
@@ -65,6 +68,8 @@ map2(
         arrow::write_csv_arrow(data[[x]], sink = paste0('team_schedule/2023/', y, '_2023.csv'))
     }
 )
+
+arrow::write_csv_arrow(all, sink = 'team_schedule/2023/all_teams_2023.csv')
 
 # push to github
 system('git pull')
