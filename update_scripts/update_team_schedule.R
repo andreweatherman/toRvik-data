@@ -69,7 +69,7 @@ map2(
     }
 )
 
-arrow::write_csv_arrow(all, sink = 'team_schedule/2023/all_teams_2023.csv')
+arrow::write_csv_arrow(all, sink = 'team_schedule/all_2023.csv')
 
 # push to github
 system('git pull')
