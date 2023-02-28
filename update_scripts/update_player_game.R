@@ -115,7 +115,32 @@ names <- c('box','shooting', 'advanced', 'all')
 # set wd
 setwd('~/torvik-data')
 
-# save as .RDS
+# load .parquet files with all data
+complete_all <- arrow::read_parquet('player_game/all.parquet')
+complete_box <- arrow::read_parquet('player_game/box.parquet')
+complete_shooting <- arrow::read_parquet('player_game/shooting.parquet')
+complete_adv <- arrow::read_parquet('player_game/advanced.parquet')
+
+# update complete .parquet files
+complete_all <- bind_rows(complete_all, all)
+complete_box <- bind_rows(complete_box, box)
+complete_shooting <- bind_rows(complete_shooting, shooting)
+complete_adv <- bind_rows(complete_adv, adv)
+
+# save complete as .parquet
+complete_save <- list(complete_all, complete_box, complete_shooting, complete_adv)
+complete_names <- c('all', 'box', 'shooting', 'advanced')
+
+map2(
+  .x = complete_save,
+  .y = complete_names,
+  .f = function(x, y) {
+    arrow::write_parquet(x, sink = paste0('player_game/', y, '.parquet'))
+  }
+)
+
+
+# save as .parquet
 map2(
   .x = to_save,
   .y = names,
