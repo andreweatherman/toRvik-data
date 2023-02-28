@@ -103,7 +103,7 @@ update_player_game <- function(year = current_season(), stat = "all") {
 }
 
 # run function for each stat type
-box <- update_player_game(year=2023, stat='box') 
+box <- update_player_game(year=2023, stat='box')  |> mutate(across(21:25, as.numeric))
 shooting <- update_player_game(year=2023, stat='shooting')
 adv <- update_player_game(year=2023, stat='adv')
 all <- update_player_game(year = 2023, stat='all')
