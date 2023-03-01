@@ -5625,7 +5625,9 @@ date,type,neutral,home,away,game_id
 2023-02-28,conf,FALSE,Central Michigan,Toledo,ToledoCentral Michigan2-28
 2023-02-28,conf,FALSE,Indiana,Iowa,IowaIndiana2-28
 2023-02-28,conf,FALSE,Duke,North Carolina St.,North Carolina St.Duke2-28
+2023-02-28,conf_t,FALSE,Wright St.,Green Bay,Green BayWright St.2-28
 2023-02-28,conf,FALSE,Wake Forest,Boston College,Boston CollegeWake Forest2-28
+2023-02-28,conf_t,FALSE,Robert Morris,IUPUI,IUPUIRobert Morris2-28
 2023-02-28,conf,FALSE,Seton Hall,Villanova,VillanovaSeton Hall2-28
 2023-02-28,conf,FALSE,New Mexico,Fresno St.,Fresno St.New Mexico2-28
 2023-02-28,conf,FALSE,Kent St.,Ohio,OhioKent St.2-28
@@ -5635,12 +5637,17 @@ date,type,neutral,home,away,game_id
 2023-02-28,conf,FALSE,Maine,Bryant,BryantMaine2-28
 2023-02-28,conf,FALSE,Louisville,Virginia Tech,Virginia TechLouisville2-28
 2023-02-28,conf,FALSE,Akron,Ball St.,Ball St.Akron2-28
+2023-02-28,conf_t,FALSE,American,Bucknell,BucknellAmerican2-28
 2023-02-28,conf,FALSE,Bowling Green,Eastern Michigan,Eastern MichiganBowling Green2-28
 2023-02-28,conf,FALSE,Mississippi,Texas A&M,Texas A&MMississippi2-28
 2023-02-28,conf,FALSE,Nebraska,Michigan St.,Michigan St.Nebraska2-28
 2023-02-28,conf,FALSE,Tennessee,Arkansas,ArkansasTennessee2-28
 2023-02-28,conf_t,TRUE,Texas St.,Georgia St.,Georgia St.Texas St.2-28
+2023-02-28,conf_t,FALSE,Detroit,Fort Wayne,Fort WayneDetroit2-28
+2023-02-28,conf_t,FALSE,Kennesaw St.,Queens,QueensKennesaw St.2-28
 2023-02-28,conf,FALSE,Boise St.,San Diego St.,San Diego St.Boise St.2-28
+2023-02-28,conf_t,FALSE,Liberty,Bellarmine,BellarmineLiberty2-28
+2023-02-28,conf_t,FALSE,Eastern Kentucky,North Alabama,North AlabamaEastern Kentucky2-28
 2023-02-28,conf,FALSE,Virginia,Clemson,ClemsonVirginia2-28
 2023-02-28,conf,FALSE,Mississippi St.,South Carolina,South CarolinaMississippi St.2-28
 2023-02-28,conf,FALSE,New Hampshire,NJIT,NJITNew Hampshire2-28
@@ -5652,16 +5659,8 @@ date,type,neutral,home,away,game_id
 2023-02-28,conf,FALSE,Georgia,Florida,FloridaGeorgia2-28
 2023-02-28,conf,FALSE,Western Michigan,Miami OH,Miami OHWestern Michigan2-28
 2023-02-28,conf,FALSE,VCU,Saint Louis,Saint LouisVCU2-28
-2023-02-28,conf,FALSE,Vermont,Albany,AlbanyVermont2-28
-2023-02-28,nond1,FALSE,Tarleton St.,Dallas Christian,Dallas ChristianTarleton St.2-28
 2023-02-28,conf_t,FALSE,Stetson,Lipscomb,LipscombStetson2-28
-2023-02-28,conf_t,FALSE,American,Bucknell,BucknellAmerican2-28
-2023-02-28,conf_t,FALSE,Robert Morris,IUPUI,IUPUIRobert Morris2-28
-2023-02-28,conf_t,FALSE,Wright St.,Green Bay,Green BayWright St.2-28
-2023-02-28,conf_t,FALSE,Liberty,Bellarmine,BellarmineLiberty2-28
-2023-02-28,conf_t,FALSE,Detroit,Fort Wayne,Fort WayneDetroit2-28
-2023-02-28,conf_t,FALSE,Eastern Kentucky,North Alabama,North AlabamaEastern Kentucky2-28
-2023-02-28,conf_t,FALSE,Kennesaw St.,Queens,QueensKennesaw St.2-28
+2023-02-28,conf,FALSE,Vermont,Albany,AlbanyVermont2-28
 2023-02-28,conf_t,FALSE,Loyola MD,Holy Cross,Holy CrossLoyola MD2-28
 2023-03-01,conf,FALSE,East Carolina,Tulane,TulaneEast Carolina3-1
 2023-03-01,conf,FALSE,Providence,Xavier,XavierProvidence3-1
@@ -5736,15 +5735,24 @@ date,type,neutral,home,away,game_id
 2023-03-02,conf,FALSE,Houston,Wichita St.,Wichita St.Houston3-2
 2023-03-02,conf,FALSE,Siena,Manhattan,ManhattanSiena3-2
 2023-03-02,conf,FALSE,Fairfield,Quinnipiac,QuinnipiacFairfield3-2
+2023-03-02,conf_t,FALSE,Youngstown St.,Detroit,DetroitYoungstown St.3-2
+2023-03-02,conf_t,FALSE,Navy,American,AmericanNavy3-2
 2023-03-02,conf_t,TRUE,Indiana St.,Evansville,EvansvilleIndiana St.3-2
+2023-03-02,conf_t,FALSE,Liberty,Eastern Kentucky,Eastern KentuckyLiberty3-2
+2023-03-02,conf_t,FALSE,Kennesaw St.,Lipscomb,LipscombKennesaw St.3-2
 2023-03-02,conf_t,TRUE,Murray St.,Valparaiso,ValparaisoMurray St.3-2
 2023-03-02,conf_t,FALSE,Northern Kentucky,Oakland,OaklandNorthern Kentucky3-2
+2023-03-02,conf_t,TRUE,Troy,Arkansas St.,Arkansas St.Troy3-2
 2023-03-02,conf_t,TRUE,South Alabama,Appalachian St.,Appalachian St.South Alabama3-2
 2023-03-02,conf_t,TRUE,Pacific,Pepperdine,PepperdinePacific3-2
 2023-03-02,conf_t,TRUE,Portland,San Diego,San DiegoPortland3-2
 2023-03-02,conf_t,TRUE,Northern Iowa,Illinois St.,Illinois St.Northern Iowa3-2
+2023-03-02,conf_t,FALSE,Milwaukee,Wright St.,Wright St.Milwaukee3-2
 2023-03-02,conf_t,FALSE,Army,Boston University,Boston UniversityArmy3-2
 2023-03-02,conf_t,TRUE,Missouri St.,Illinois Chicago,Illinois ChicagoMissouri St.3-2
+2023-03-02,conf_t,FALSE,Cleveland St.,Robert Morris,Robert MorrisCleveland St.3-2
+2023-03-02,conf_t,FALSE,Colgate,Loyola MD,Loyola MDColgate3-2
+2023-03-02,conf_t,TRUE,Old Dominion,Texas St.,Texas St.Old Dominion3-2
 2023-03-02,conf_t,FALSE,Lehigh,Lafayette,LafayetteLehigh3-2
 2023-03-03,conf,FALSE,Ball St.,Toledo,ToledoBall St.3-3
 2023-03-03,conf,FALSE,Western Michigan,Central Michigan,Central MichiganWestern Michigan3-3
@@ -5835,8 +5843,12 @@ date,type,neutral,home,away,game_id
 2023-03-04,conf,FALSE,George Washington,VCU,VCUGeorge Washington3-4
 2023-03-04,conf_t,TRUE,Portland St.,Northern Colorado,Northern ColoradoPortland St.3-4
 2023-03-04,conf_t,TRUE,William & Mary,Elon,ElonWilliam & Mary3-4
+2023-03-04,conf_t,FALSE,UMass Lowell,Maine,MaineUMass Lowell3-4
+2023-03-04,conf_t,FALSE,UMBC,Binghamton,BinghamtonUMBC3-4
 2023-03-04,conf_t,TRUE,Northern Arizona,Idaho,IdahoNorthern Arizona3-4
+2023-03-04,conf_t,FALSE,New Hampshire,Bryant,BryantNew Hampshire3-4
 2023-03-04,conf_t,TRUE,Western Carolina,East Tennessee St.,East Tennessee St.Western Carolina3-4
+2023-03-04,conf_t,FALSE,Vermont,NJIT,NJITVermont3-4
 2023-03-04,conf_t,TRUE,Delaware,Northeastern,NortheasternDelaware3-4
 2023-03-04,conf_t,TRUE,North Carolina A&T,Stony Brook,Stony BrookNorth Carolina A&T3-4
 2023-03-04,conf_t,TRUE,UNC Greensboro,Wofford,WoffordUNC Greensboro3-4
@@ -5855,4 +5867,3 @@ date,type,neutral,home,away,game_id
 2023-03-05,conf_t,TRUE,North Dakota St.,South Dakota,South DakotaNorth Dakota St.3-5
 2023-03-06,conf_t,TRUE,Montana,Idaho St.,Idaho St.Montana3-6
 2023-03-06,conf_t,TRUE,Weber St.,Sacramento St.,Sacramento St.Weber St.3-6
-2023-04-01,post,FALSE,Michigan St.,Minnesota,MinnesotaMichigan St.4-102/15/2023
