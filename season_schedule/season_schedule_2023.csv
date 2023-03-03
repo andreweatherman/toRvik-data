@@ -5662,6 +5662,7 @@ date,type,neutral,home,away,game_id
 2023-02-28,conf_t,FALSE,Stetson,Lipscomb,LipscombStetson2-28
 2023-02-28,conf,FALSE,Vermont,Albany,AlbanyVermont2-28
 2023-02-28,conf_t,FALSE,Loyola MD,Holy Cross,Holy CrossLoyola MD2-28
+2023-02-28,nond1,FALSE,Tarleton St.,Southwestern Assemblies,Southwestern AssembliesTarleton St.2-28
 2023-03-01,conf,FALSE,East Carolina,Tulane,TulaneEast Carolina3-1
 2023-03-01,conf,FALSE,Providence,Xavier,XavierProvidence3-1
 2023-03-01,conf,FALSE,Utah Tech,Seattle,SeattleUtah Tech3-1
@@ -5702,61 +5703,62 @@ date,type,neutral,home,away,game_id
 2023-03-01,conf,FALSE,George Mason,Fordham,FordhamGeorge Mason3-1
 2023-03-02,conf,FALSE,UC Davis,UC Santa Barbara,UC Santa BarbaraUC Davis3-2
 2023-03-02,conf,FALSE,Arkansas Pine Bluff,Jackson St.,Jackson St.Arkansas Pine Bluff3-2
+2023-03-02,conf_t,FALSE,Milwaukee,Wright St.,Wright St.Milwaukee3-2
 2023-03-02,conf,FALSE,UC Riverside,UC Irvine,UC IrvineUC Riverside3-2
 2023-03-02,conf,FALSE,Louisiana Tech,FIU,FIULouisiana Tech3-2
+2023-03-02,conf_t,TRUE,Missouri St.,Illinois Chicago,Illinois ChicagoMissouri St.3-2
 2023-03-02,conf,FALSE,UTSA,Charlotte,CharlotteUTSA3-2
 2023-03-02,conf,FALSE,Rice,Florida Atlantic,Florida AtlanticRice3-2
+2023-03-02,conf_t,FALSE,Cleveland St.,Robert Morris,Robert MorrisCleveland St.3-2
 2023-03-02,conf,FALSE,Howard,Norfolk St.,Norfolk St.Howard3-2
 2023-03-02,conf,FALSE,Iona,Marist,MaristIona3-2
 2023-03-02,conf,FALSE,Cal St. Northridge,Hawaii,HawaiiCal St. Northridge3-2
 2023-03-02,conf,FALSE,Saint Peter's,Rider,RiderSaint Peter's3-2
 2023-03-02,conf,FALSE,USC,Arizona,ArizonaUSC3-2
+2023-03-02,conf_t,TRUE,Portland,San Diego,San DiegoPortland3-2
 2023-03-02,conf,FALSE,SMU,Memphis,MemphisSMU3-2
+2023-03-02,conf_t,TRUE,Murray St.,Valparaiso,ValparaisoMurray St.3-2
+2023-03-02,conf_t,FALSE,Navy,American,AmericanNavy3-2
 2023-03-02,conf,FALSE,UCLA,Arizona St.,Arizona St.UCLA3-2
+2023-03-02,conf_t,TRUE,Pacific,Pepperdine,PepperdinePacific3-2
 2023-03-02,conf,FALSE,North Texas,Middle Tennessee,Middle TennesseeNorth Texas3-2
 2023-03-02,conf,FALSE,Mississippi Valley St.,Alcorn St.,Alcorn St.Mississippi Valley St.3-2
 2023-03-02,conf_t,TRUE,Louisiana Monroe,Georgia Southern,Georgia SouthernLouisiana Monroe3-2
+2023-03-02,conf_t,TRUE,Tennessee Martin,SIU Edwardsville,SIU EdwardsvilleTennessee Martin3-2
+2023-03-02,conf_t,TRUE,Old Dominion,Texas St.,Texas St.Old Dominion3-2
 2023-03-02,conf,FALSE,Minnesota,Rutgers,RutgersMinnesota3-2
 2023-03-02,conf,FALSE,Illinois,Michigan,MichiganIllinois3-2
 2023-03-02,conf,FALSE,UTEP,Western Kentucky,Western KentuckyUTEP3-2
 2023-03-02,conf,FALSE,Delaware St.,Maryland Eastern Shore,Maryland Eastern ShoreDelaware St.3-2
+2023-03-02,conf_t,FALSE,Liberty,Eastern Kentucky,Eastern KentuckyLiberty3-2
+2023-03-02,conf_t,FALSE,Northern Kentucky,Oakland,OaklandNorthern Kentucky3-2
+2023-03-02,conf_t,TRUE,South Alabama,Appalachian St.,Appalachian St.South Alabama3-2
 2023-03-02,conf,FALSE,Long Beach St.,Cal St. Bakersfield,Cal St. BakersfieldLong Beach St.3-2
 2023-03-02,conf,FALSE,Grambling St.,Alabama A&M,Alabama A&MGrambling St.3-2
 2023-03-02,conf,FALSE,South Carolina St.,North Carolina Central,North Carolina CentralSouth Carolina St.3-2
+2023-03-02,conf_t,TRUE,Indiana St.,Evansville,EvansvilleIndiana St.3-2
 2023-03-02,conf,FALSE,Temple,UCF,UCFTemple3-2
+2023-03-02,conf_t,TRUE,Northern Iowa,Illinois St.,Illinois St.Northern Iowa3-2
+2023-03-02,conf_t,FALSE,Lehigh,Lafayette,LafayetteLehigh3-2
 2023-03-02,conf,FALSE,Wisconsin,Purdue,PurdueWisconsin3-2
 2023-03-02,conf,FALSE,Washington,Washington St.,Washington St.Washington3-2
 2023-03-02,conf,FALSE,Oregon,California,CaliforniaOregon3-2
 2023-03-02,conf,FALSE,Morgan St.,Coppin St.,Coppin St.Morgan St.3-2
 2023-03-02,conf,FALSE,Southern,Alabama St.,Alabama St.Southern3-2
 2023-03-02,conf,FALSE,Oregon St.,Stanford,StanfordOregon St.3-2
+2023-03-02,conf_t,FALSE,Kennesaw St.,Lipscomb,LipscombKennesaw St.3-2
 2023-03-02,conf,FALSE,Houston,Wichita St.,Wichita St.Houston3-2
+2023-03-02,conf_t,FALSE,Army,Boston University,Boston UniversityArmy3-2
+2023-03-02,conf_t,TRUE,Troy,Arkansas St.,Arkansas St.Troy3-2
+2023-03-02,conf_t,FALSE,Colgate,Loyola MD,Loyola MDColgate3-2
 2023-03-02,conf,FALSE,Siena,Manhattan,ManhattanSiena3-2
 2023-03-02,conf,FALSE,Fairfield,Quinnipiac,QuinnipiacFairfield3-2
-2023-03-02,conf_t,FALSE,Youngstown St.,Detroit,DetroitYoungstown St.3-2
-2023-03-02,conf_t,FALSE,Navy,American,AmericanNavy3-2
-2023-03-02,conf_t,TRUE,Indiana St.,Evansville,EvansvilleIndiana St.3-2
-2023-03-02,conf_t,FALSE,Liberty,Eastern Kentucky,Eastern KentuckyLiberty3-2
-2023-03-02,conf_t,FALSE,Kennesaw St.,Lipscomb,LipscombKennesaw St.3-2
-2023-03-02,conf_t,TRUE,Murray St.,Valparaiso,ValparaisoMurray St.3-2
-2023-03-02,conf_t,FALSE,Northern Kentucky,Oakland,OaklandNorthern Kentucky3-2
-2023-03-02,conf_t,TRUE,Troy,Arkansas St.,Arkansas St.Troy3-2
-2023-03-02,conf_t,TRUE,South Alabama,Appalachian St.,Appalachian St.South Alabama3-2
-2023-03-02,conf_t,TRUE,Pacific,Pepperdine,PepperdinePacific3-2
-2023-03-02,conf_t,TRUE,Portland,San Diego,San DiegoPortland3-2
-2023-03-02,conf_t,TRUE,Northern Iowa,Illinois St.,Illinois St.Northern Iowa3-2
-2023-03-02,conf_t,FALSE,Milwaukee,Wright St.,Wright St.Milwaukee3-2
-2023-03-02,conf_t,FALSE,Army,Boston University,Boston UniversityArmy3-2
-2023-03-02,conf_t,TRUE,Missouri St.,Illinois Chicago,Illinois ChicagoMissouri St.3-2
 2023-03-02,conf_t,TRUE,Tennessee St.,Southeast Missouri St.,Southeast Missouri St.Tennessee St.3-2
-2023-03-02,conf_t,FALSE,Cleveland St.,Robert Morris,Robert MorrisCleveland St.3-2
-2023-03-02,conf_t,FALSE,Colgate,Loyola MD,Loyola MDColgate3-2
-2023-03-02,conf_t,TRUE,Tennessee Martin,SIU Edwardsville,SIU EdwardsvilleTennessee Martin3-2
-2023-03-02,conf_t,TRUE,Old Dominion,Texas St.,Texas St.Old Dominion3-2
-2023-03-02,conf_t,FALSE,Lehigh,Lafayette,LafayetteLehigh3-2
+2023-03-02,conf_t,FALSE,Youngstown St.,Detroit,DetroitYoungstown St.3-2
 2023-03-03,conf,FALSE,Ball St.,Toledo,ToledoBall St.3-3
 2023-03-03,conf,FALSE,Western Michigan,Central Michigan,Central MichiganWestern Michigan3-3
 2023-03-03,conf,FALSE,Tulane,East Carolina,East CarolinaTulane3-3
+2023-03-03,conf_t,TRUE,Portland,BYU,BYUPortland3-3
 2023-03-03,conf,FALSE,Seattle,UT Arlington,UT ArlingtonSeattle3-3
 2023-03-03,conf,FALSE,Sam Houston St.,Abilene Christian,Abilene ChristianSam Houston St.3-3
 2023-03-03,conf,FALSE,Ohio,Bowling Green,Bowling GreenOhio3-3
@@ -5766,10 +5768,16 @@ date,type,neutral,home,away,game_id
 2023-03-03,conf,FALSE,Buffalo,Miami OH,Miami OHBuffalo3-3
 2023-03-03,conf,FALSE,Southern Utah,Cal Baptist,Cal BaptistSouthern Utah3-3
 2023-03-03,conf,FALSE,Colorado St.,New Mexico,New MexicoColorado St.3-3
+2023-03-03,conf_t,TRUE,Indiana St.,Belmont,BelmontIndiana St.3-3
 2023-03-03,conf,FALSE,Utah Valley,Stephen F. Austin,Stephen F. AustinUtah Valley3-3
+2023-03-03,conf_t,TRUE,Bradley,Northern Iowa,Northern IowaBradley3-3
 2023-03-03,conf_t,TRUE,USC Upstate,Gardner Webb,Gardner WebbUSC Upstate3-3
+2023-03-03,conf_t,TRUE,San Francisco,Pacific,PacificSan Francisco3-3
+2023-03-03,conf_t,TRUE,Drake,Murray St.,Murray St.Drake3-3
+2023-03-03,conf_t,TRUE,Tennessee Tech,Tennessee Martin,Tennessee MartinTennessee Tech3-3
 2023-03-03,conf_t,TRUE,Mercer,The Citadel,The CitadelMercer3-3
 2023-03-03,conf_t,TRUE,UNC Asheville,Charleston Southern,Charleston SouthernUNC Asheville3-3
+2023-03-03,conf_t,TRUE,Morehead St.,Southeast Missouri St.,Southeast Missouri St.Morehead St.3-3
 2023-03-03,conf_t,TRUE,Longwood,Campbell,CampbellLongwood3-3
 2023-03-03,conf_t,TRUE,Chattanooga,VMI,VMIChattanooga3-3
 2023-03-03,conf_t,TRUE,Denver,North Dakota,North DakotaDenver3-3
@@ -5777,6 +5785,7 @@ date,type,neutral,home,away,game_id
 2023-03-03,conf_t,TRUE,Radford,Winthrop,WinthropRadford3-3
 2023-03-03,conf_t,TRUE,Hampton,Monmouth,MonmouthHampton3-3
 2023-03-03,conf,FALSE,Saint Louis,Dayton,DaytonSaint Louis3-3
+2023-03-03,conf_t,TRUE,Southern Illinois,Missouri St.,Missouri St.Southern Illinois3-3
 2023-03-04,conf,FALSE,UC Santa Barbara,Hawaii,HawaiiUC Santa Barbara3-4
 2023-03-04,conf,FALSE,Arkansas Pine Bluff,Alcorn St.,Alcorn St.Arkansas Pine Bluff3-4
 2023-03-04,conf,FALSE,Brown,Yale,YaleBrown3-4
@@ -5842,15 +5851,19 @@ date,type,neutral,home,away,game_id
 2023-03-04,conf,FALSE,Manhattan,Mount St. Mary's,Mount St. Mary'sManhattan3-4
 2023-03-04,conf,FALSE,Fordham,Duquesne,DuquesneFordham3-4
 2023-03-04,conf,FALSE,George Washington,VCU,VCUGeorge Washington3-4
+2023-03-04,conf_t,TRUE,James Madison,Troy,TroyJames Madison3-4
 2023-03-04,conf_t,TRUE,Portland St.,Northern Colorado,Northern ColoradoPortland St.3-4
 2023-03-04,conf_t,TRUE,William & Mary,Elon,ElonWilliam & Mary3-4
 2023-03-04,conf_t,FALSE,UMass Lowell,Maine,MaineUMass Lowell3-4
+2023-03-04,conf_t,TRUE,Louisiana Lafayette,Georgia Southern,Georgia SouthernLouisiana Lafayette3-4
 2023-03-04,conf_t,FALSE,UMBC,Binghamton,BinghamtonUMBC3-4
 2023-03-04,conf_t,FALSE,Merrimack,Sacred Heart,Sacred HeartMerrimack3-4
 2023-03-04,conf_t,TRUE,Northern Arizona,Idaho,IdahoNorthern Arizona3-4
 2023-03-04,conf_t,FALSE,New Hampshire,Bryant,BryantNew Hampshire3-4
 2023-03-04,conf_t,TRUE,Western Carolina,East Tennessee St.,East Tennessee St.Western Carolina3-4
+2023-03-04,conf_t,TRUE,Marshall,Texas St.,Texas St.Marshall3-4
 2023-03-04,conf_t,FALSE,Vermont,NJIT,NJITVermont3-4
+2023-03-04,conf_t,TRUE,Southern Miss,South Alabama,South AlabamaSouthern Miss3-4
 2023-03-04,conf_t,FALSE,Fairleigh Dickinson,St. Francis PA,St. Francis PAFairleigh Dickinson3-4
 2023-03-04,conf_t,TRUE,Delaware,Northeastern,NortheasternDelaware3-4
 2023-03-04,conf_t,TRUE,North Carolina A&T,Stony Brook,Stony BrookNorth Carolina A&T3-4
@@ -5865,10 +5878,15 @@ date,type,neutral,home,away,game_id
 2023-03-05,conf,FALSE,Purdue,Illinois,IllinoisPurdue3-5
 2023-03-05,conf,FALSE,UCF,East Carolina,East CarolinaUCF3-5
 2023-03-05,conf,FALSE,Rutgers,Northwestern,NorthwesternRutgers3-5
+2023-03-05,conf_t,TRUE,New Orleans,Houston Christian,Houston ChristianNew Orleans3-5
 2023-03-05,conf,FALSE,Wichita St.,South Florida,South FloridaWichita St.3-5
+2023-03-05,conf_t,FALSE,Kennesaw St.,Liberty,LibertyKennesaw St.3-5
 2023-03-05,conf_t,TRUE,Western Illinois,St. Thomas,St. ThomasWestern Illinois3-5
 2023-03-05,conf_t,TRUE,Texas A&M Commerce,McNeese St.,McNeese St.Texas A&M Commerce3-5
 2023-03-05,conf_t,TRUE,North Dakota St.,South Dakota,South DakotaNorth Dakota St.3-5
-2023-03-05,conf_t,TRUE,Houston Christian,New Orleans,New OrleansHouston Christian3-5
+2023-03-05,conf_t,FALSE,Lafayette,American,AmericanLafayette3-5
+2023-03-05,conf_t,FALSE,Colgate,Army,ArmyColgate3-5
+2023-03-06,conf_t,TRUE,Youngstown St.,Northern Kentucky,Northern KentuckyYoungstown St.3-6
 2023-03-06,conf_t,TRUE,Montana,Idaho St.,Idaho St.Montana3-6
 2023-03-06,conf_t,TRUE,Weber St.,Sacramento St.,Sacramento St.Weber St.3-6
+2023-03-06,conf_t,TRUE,Milwaukee,Cleveland St.,Cleveland St.Milwaukee3-6
