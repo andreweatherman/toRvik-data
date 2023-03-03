@@ -70,7 +70,7 @@ box <- box |>
   mutate(opp_conf = teams[team], .after = opp) |>
   relocate(min, .after = opp_conf) |>
   relocate(pos, .after = min) |>
-  select(-c(win, loss, game_id)) 
+  select(-c(win, loss)) 
 
 # set wd
 setwd('~/torvik-data')
