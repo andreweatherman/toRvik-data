@@ -5760,32 +5760,32 @@ date,type,neutral,home,away,game_id
 2023-03-03,conf,FALSE,Tulane,East Carolina,East CarolinaTulane3-3
 2023-03-03,conf_t,TRUE,Portland,BYU,BYUPortland3-3
 2023-03-03,conf,FALSE,Seattle,UT Arlington,UT ArlingtonSeattle3-3
+2023-03-03,conf_t,TRUE,Denver,North Dakota,North DakotaDenver3-3
 2023-03-03,conf,FALSE,Sam Houston St.,Abilene Christian,Abilene ChristianSam Houston St.3-3
+2023-03-03,conf_t,TRUE,UMKC,Nebraska Omaha,Nebraska OmahaUMKC3-3
 2023-03-03,conf,FALSE,Ohio,Bowling Green,Bowling GreenOhio3-3
+2023-03-03,conf_t,TRUE,Radford,Winthrop,WinthropRadford3-3
 2023-03-03,conf,FALSE,Northern Illinois,Eastern Michigan,Eastern MichiganNorthern Illinois3-3
 2023-03-03,conf,FALSE,Kent St.,Akron,AkronKent St.3-3
+2023-03-03,conf_t,TRUE,Southern Illinois,Missouri St.,Missouri St.Southern Illinois3-3
 2023-03-03,conf,FALSE,Utah Tech,Grand Canyon,Grand CanyonUtah Tech3-3
+2023-03-03,conf_t,TRUE,Drake,Murray St.,Murray St.Drake3-3
+2023-03-03,conf_t,TRUE,San Francisco,Pacific,PacificSan Francisco3-3
+2023-03-03,conf_t,TRUE,USC Upstate,Gardner Webb,Gardner WebbUSC Upstate3-3
+2023-03-03,conf_t,TRUE,Chattanooga,VMI,VMIChattanooga3-3
+2023-03-03,conf_t,TRUE,Tennessee Tech,Tennessee Martin,Tennessee MartinTennessee Tech3-3
+2023-03-03,conf_t,TRUE,Morehead St.,Southeast Missouri St.,Southeast Missouri St.Morehead St.3-3
 2023-03-03,conf,FALSE,Buffalo,Miami OH,Miami OHBuffalo3-3
+2023-03-03,conf_t,TRUE,UNC Asheville,Charleston Southern,Charleston SouthernUNC Asheville3-3
+2023-03-03,conf_t,TRUE,Bradley,Northern Iowa,Northern IowaBradley3-3
 2023-03-03,conf,FALSE,Southern Utah,Cal Baptist,Cal BaptistSouthern Utah3-3
 2023-03-03,conf,FALSE,Colorado St.,New Mexico,New MexicoColorado St.3-3
 2023-03-03,conf_t,TRUE,Indiana St.,Belmont,BelmontIndiana St.3-3
-2023-03-03,conf,FALSE,Utah Valley,Stephen F. Austin,Stephen F. AustinUtah Valley3-3
-2023-03-03,conf_t,TRUE,Bradley,Northern Iowa,Northern IowaBradley3-3
-2023-03-03,conf_t,TRUE,USC Upstate,Gardner Webb,Gardner WebbUSC Upstate3-3
-2023-03-03,conf_t,TRUE,San Francisco,Pacific,PacificSan Francisco3-3
-2023-03-03,conf_t,TRUE,Drake,Murray St.,Murray St.Drake3-3
-2023-03-03,conf_t,TRUE,Tennessee Tech,Tennessee Martin,Tennessee MartinTennessee Tech3-3
 2023-03-03,conf_t,TRUE,Mercer,The Citadel,The CitadelMercer3-3
-2023-03-03,conf_t,TRUE,UNC Asheville,Charleston Southern,Charleston SouthernUNC Asheville3-3
-2023-03-03,conf_t,TRUE,Morehead St.,Southeast Missouri St.,Southeast Missouri St.Morehead St.3-3
-2023-03-03,conf_t,TRUE,Longwood,Campbell,CampbellLongwood3-3
-2023-03-03,conf_t,TRUE,Chattanooga,VMI,VMIChattanooga3-3
-2023-03-03,conf_t,TRUE,Denver,North Dakota,North DakotaDenver3-3
-2023-03-03,conf_t,TRUE,UMKC,Nebraska Omaha,Nebraska OmahaUMKC3-3
-2023-03-03,conf_t,TRUE,Radford,Winthrop,WinthropRadford3-3
 2023-03-03,conf_t,TRUE,Hampton,Monmouth,MonmouthHampton3-3
 2023-03-03,conf,FALSE,Saint Louis,Dayton,DaytonSaint Louis3-3
-2023-03-03,conf_t,TRUE,Southern Illinois,Missouri St.,Missouri St.Southern Illinois3-3
+2023-03-03,conf_t,TRUE,Longwood,Campbell,CampbellLongwood3-3
+2023-03-03,conf,FALSE,Utah Valley,Stephen F. Austin,Stephen F. AustinUtah Valley3-3
 2023-03-04,conf,FALSE,UC Santa Barbara,Hawaii,HawaiiUC Santa Barbara3-4
 2023-03-04,conf,FALSE,Arkansas Pine Bluff,Alcorn St.,Alcorn St.Arkansas Pine Bluff3-4
 2023-03-04,conf,FALSE,Brown,Yale,YaleBrown3-4
@@ -5854,20 +5854,32 @@ date,type,neutral,home,away,game_id
 2023-03-04,conf_t,TRUE,James Madison,Troy,TroyJames Madison3-4
 2023-03-04,conf_t,TRUE,Portland St.,Northern Colorado,Northern ColoradoPortland St.3-4
 2023-03-04,conf_t,TRUE,William & Mary,Elon,ElonWilliam & Mary3-4
+2023-03-04,conf_t,TRUE,Drake,Southern Illinois,Southern IllinoisDrake3-4
 2023-03-04,conf_t,FALSE,UMass Lowell,Maine,MaineUMass Lowell3-4
+2023-03-04,conf_t,TRUE,Furman,Mercer,MercerFurman3-4
 2023-03-04,conf_t,TRUE,Louisiana Lafayette,Georgia Southern,Georgia SouthernLouisiana Lafayette3-4
 2023-03-04,conf_t,FALSE,UMBC,Binghamton,BinghamtonUMBC3-4
 2023-03-04,conf_t,FALSE,Merrimack,Sacred Heart,Sacred HeartMerrimack3-4
 2023-03-04,conf_t,TRUE,Northern Arizona,Idaho,IdahoNorthern Arizona3-4
+2023-03-04,conf_t,TRUE,UNC Asheville,USC Upstate,USC UpstateUNC Asheville3-4
 2023-03-04,conf_t,FALSE,New Hampshire,Bryant,BryantNew Hampshire3-4
 2023-03-04,conf_t,TRUE,Western Carolina,East Tennessee St.,East Tennessee St.Western Carolina3-4
+2023-03-04,conf_t,TRUE,South Dakota St.,Nebraska Omaha,Nebraska OmahaSouth Dakota St.3-4
+2023-03-04,conf_t,TRUE,Samford,Chattanooga,ChattanoogaSamford3-4
 2023-03-04,conf_t,TRUE,Marshall,Texas St.,Texas St.Marshall3-4
+2023-03-04,conf_t,TRUE,Oral Roberts,North Dakota,North DakotaOral Roberts3-4
 2023-03-04,conf_t,FALSE,Vermont,NJIT,NJITVermont3-4
+2023-03-04,conf_t,TRUE,Santa Clara,San Francisco,San FranciscoSanta Clara3-4
 2023-03-04,conf_t,TRUE,Southern Miss,South Alabama,South AlabamaSouthern Miss3-4
 2023-03-04,conf_t,FALSE,Fairleigh Dickinson,St. Francis PA,St. Francis PAFairleigh Dickinson3-4
 2023-03-04,conf_t,TRUE,Delaware,Northeastern,NortheasternDelaware3-4
+2023-03-04,conf_t,TRUE,Bradley,Indiana St.,Indiana St.Bradley3-4
+2023-03-04,conf_t,TRUE,Loyola Marymount,BYU,BYULoyola Marymount3-4
+2023-03-04,conf_t,TRUE,Radford,Campbell,CampbellRadford3-4
 2023-03-04,conf_t,TRUE,North Carolina A&T,Stony Brook,Stony BrookNorth Carolina A&T3-4
 2023-03-04,conf_t,TRUE,UNC Greensboro,Wofford,WoffordUNC Greensboro3-4
+2023-03-04,conf_t,TRUE,Drexel,Monmouth,MonmouthDrexel3-4
+2023-03-04,conf_t,TRUE,Tennessee Tech,Southeast Missouri St.,Southeast Missouri St.Tennessee Tech3-4
 2023-03-05,conf,FALSE,Indiana,Michigan,MichiganIndiana3-5
 2023-03-05,conf,FALSE,Tulane,Temple,TempleTulane3-5
 2023-03-05,conf,FALSE,Penn St.,Maryland,MarylandPenn St.3-5
@@ -5890,3 +5902,11 @@ date,type,neutral,home,away,game_id
 2023-03-06,conf_t,TRUE,Montana,Idaho St.,Idaho St.Montana3-6
 2023-03-06,conf_t,TRUE,Weber St.,Sacramento St.,Sacramento St.Weber St.3-6
 2023-03-06,conf_t,TRUE,Milwaukee,Cleveland St.,Cleveland St.Milwaukee3-6
+2023-03-08,conf_t,TRUE,North Carolina Central,Delaware St.,Delaware St.North Carolina Central3-8
+2023-03-08,conf_t,TRUE,Howard,South Carolina St.,South Carolina St.Howard3-8
+2023-03-09,conf_t,TRUE,Kent St.,Northern Illinois,Northern IllinoisKent St.3-9
+2023-03-09,conf_t,TRUE,Toledo,Miami OH,Miami OHToledo3-9
+2023-03-09,conf_t,TRUE,Maryland Eastern Shore,Morgan St.,Morgan St.Maryland Eastern Shore3-9
+2023-03-09,conf_t,TRUE,Norfolk St.,Coppin St.,Coppin St.Norfolk St.3-9
+2023-03-09,conf_t,TRUE,Akron,Buffalo,BuffaloAkron3-9
+2023-03-09,conf_t,TRUE,Ball St.,Ohio,OhioBall St.3-9
