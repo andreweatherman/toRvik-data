@@ -25,7 +25,8 @@ update_season_schedule <- function(year = current_season()) {
         neutral = dplyr::case_when(
           neutral == 1 ~ TRUE,
           TRUE ~ FALSE
-        )
+        ),
+        year = year
       )
       return(x)
     }
@@ -34,6 +35,21 @@ update_season_schedule <- function(year = current_season()) {
 
 # get data
 schedule <- update_season_schedule()
+
+# add on home and away conferences
+teams = bart_teams() |> filter(year == 2023)
+
+schedule <- left_join(
+  schedule,
+  teams |> select(team, conf) |> setNames(c('home', 'home_conf')),
+  by = 'home'
+) |>
+relocate(home_conf, .after = home) |>
+left_join(
+  teams |> select(team, conf) |> setNames(c('away', 'away_conf')),
+  by = 'away'
+) |>
+relocate(away_conf, .after = away)
 
 # set wd
 setwd('~/torvik-data')
