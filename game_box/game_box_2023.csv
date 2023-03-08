@@ -1325,34 +1325,34 @@
 "1324",2023-02-20,"conf",TRUE,"South Carolina St.Delaware St.2-20","Delaware St.","MEAC","South Carolina St.","MEAC",200,69.8125,23,59,9,17,14,18,15,30,45,12,2,2,17,19,69
 "1325",2023-02-20,"conf",TRUE,"Coppin St.Norfolk St.2-20","Coppin St.","MEAC","Norfolk St.","MEAC",200,67.1375,19,40,7,18,24,33,3,17,20,12,7,3,11,16,69
 "1326",2023-02-20,"conf",FALSE,"Coppin St.Norfolk St.2-20","Norfolk St.","MEAC","Coppin St.","MEAC",200,67.1375,22,65,5,27,13,16,17,24,41,11,8,3,15,26,62
-"1327",2023-02-20,NA,FALSE,"Southwestern AssembliesUT Rio Grande Valley2-20","Southwestern Assemblies",NA,"UT Rio Grande Valley",NA,200,86.675,22,70,9,37,12,15,3,22,25,13,7,3,13,13,65
-"1328",2023-02-20,NA,TRUE,"Southwestern AssembliesUT Rio Grande Valley2-20","UT Rio Grande Valley","WAC","Southwestern Assemblies","WAC",200,86.675,49,87,9,36,6,11,18,46,64,36,4,3,12,15,113
-"1329",2023-02-20,"conf",TRUE,"HawaiiCal St. Bakersfield2-20","Hawaii","BW","Cal St. Bakersfield","BW",200,58.3625,20,49,8,20,13,18,11,19,30,9,5,4,12,10,61
-"1330",2023-02-20,"conf",FALSE,"HawaiiCal St. Bakersfield2-20","Cal St. Bakersfield","BW","Hawaii","BW",200,58.3625,18,51,3,5,11,13,14,20,34,4,7,7,15,19,50
-"1331",2023-02-20,"conf",FALSE,"HowardMorgan St.2-20","Howard","MEAC","Morgan St.","MEAC",200,72.75,26,66,6,24,18,27,20,23,43,9,5,0,15,21,76
-"1332",2023-02-20,"conf",TRUE,"HowardMorgan St.2-20","Morgan St.","MEAC","Howard","MEAC",200,72.75,30,55,7,19,22,33,8,24,32,18,9,6,9,19,89
-"1333",2023-02-20,"conf",TRUE,"North Carolina CentralMaryland Eastern Shore2-20","North Carolina Central","MEAC","Maryland Eastern Shore","MEAC",200,77.7875,24,55,2,10,18,29,13,26,39,14,12,4,22,16,68
-"1334",2023-02-20,"conf",FALSE,"North Carolina CentralMaryland Eastern Shore2-20","Maryland Eastern Shore","MEAC","North Carolina Central","MEAC",200,77.7875,25,59,6,29,7,8,4,16,20,13,12,2,19,23,63
-"1335",2023-02-20,"conf",TRUE,"Texas A&M CommerceNicholls St.2-20","Texas A&M Commerce","Slnd","Nicholls St.","Slnd",200,68.6,27,61,6,22,12,19,14,25,39,14,5,4,12,17,72
-"1336",2023-02-20,"conf",FALSE,"Texas A&M CommerceNicholls St.2-20","Nicholls St.","Slnd","Texas A&M Commerce","Slnd",200,68.6,29,63,8,19,5,13,13,25,38,14,7,4,13,19,71
-"1337",2023-02-20,"conf",FALSE,"MinnesotaIllinois2-20","Minnesota","B10","Illinois","B10",200,66.2375,27,57,6,17,9,15,7,26,33,14,5,1,9,20,69
-"1338",2023-02-20,"conf",TRUE,"MinnesotaIllinois2-20","Illinois","B10","Minnesota","B10",200,66.2375,27,56,10,26,14,26,10,27,37,8,4,2,8,18,78
-"1339",2023-02-20,"conf",TRUE,"Florida A&MAlabama A&M2-20","Florida A&M","SWAC","Alabama A&M","SWAC",200,69.275,26,55,5,19,20,25,9,32,41,10,6,11,11,22,77
-"1340",2023-02-20,"conf",FALSE,"Florida A&MAlabama A&M2-20","Alabama A&M","SWAC","Florida A&M","SWAC",200,69.275,22,59,8,18,19,33,13,24,37,14,6,4,8,19,71
-"1341",2023-02-20,"conf",TRUE,"KansasTCU2-20","Kansas","B12","TCU","B12",200,69.3375,26,66,3,16,8,12,13,35,48,19,6,3,11,17,63
-"1342",2023-02-20,"conf",FALSE,"KansasTCU2-20","TCU","B12","Kansas","B12",200,69.3375,20,66,5,18,13,21,14,28,42,13,5,5,7,14,58
-"1343",2023-02-20,"conf",FALSE,"Arkansas Pine BluffTexas Southern2-20","Arkansas Pine Bluff","SWAC","Texas Southern","SWAC",200,68.475,21,60,7,21,10,17,8,25,33,7,7,4,10,21,59
-"1344",2023-02-20,"conf",TRUE,"Arkansas Pine BluffTexas Southern2-20","Texas Southern","SWAC","Arkansas Pine Bluff","SWAC",200,68.475,20,55,5,24,19,25,12,35,47,14,6,3,12,18,64
-"1345",2023-02-20,"conf",TRUE,"Bethune CookmanAlabama St.2-20","Bethune Cookman","SWAC","Alabama St.","SWAC",200,63.5,27,60,4,15,12,17,15,22,37,10,7,1,11,16,70
-"1346",2023-02-20,"conf",FALSE,"Bethune CookmanAlabama St.2-20","Alabama St.","SWAC","Bethune Cookman","SWAC",200,63.5,23,54,6,21,13,23,14,18,32,16,7,4,12,15,65
-"1347",2023-02-20,"conf",TRUE,"UC RiversideCal St. Northridge2-20","UC Riverside","BW","Cal St. Northridge","BW",200,73.6375,36,64,12,26,12,19,12,18,30,21,8,2,11,25,96
-"1348",2023-02-20,"conf",FALSE,"UC RiversideCal St. Northridge2-20","Cal St. Northridge","BW","UC Riverside","BW",200,73.6375,27,53,2,13,20,30,9,21,30,9,4,4,17,18,76
-"1349",2023-02-20,"conf",TRUE,"Cal St. FullertonUC Santa Barbara2-20","Cal St. Fullerton","BW","UC Santa Barbara","BW",200,60.2375,26,55,5,17,17,21,8,27,35,13,4,2,3,18,74
-"1350",2023-02-20,"conf",FALSE,"Cal St. FullertonUC Santa Barbara2-20","UC Santa Barbara","BW","Cal St. Fullerton","BW",200,60.2375,21,49,5,18,13,20,5,24,29,13,0,3,7,18,60
-"1351",2023-02-20,"conf",TRUE,"UC IrvineCal Poly2-20","UC Irvine","BW","Cal Poly","BW",200,64.2875,20,47,3,8,16,18,6,31,37,12,5,3,15,22,59
-"1352",2023-02-20,"conf",FALSE,"UC IrvineCal Poly2-20","Cal Poly","BW","UC Irvine","BW",200,64.2875,18,55,6,19,14,19,9,22,31,8,4,1,9,17,56
-"1353",2023-02-20,"conf",FALSE,"Mississippi Valley St.Prairie View A&M2-20","Mississippi Valley St.","SWAC","Prairie View A&M","SWAC",200,70.425,25,50,5,6,10,16,7,30,37,7,4,0,19,21,65
-"1354",2023-02-20,"conf",TRUE,"Mississippi Valley St.Prairie View A&M2-20","Prairie View A&M","SWAC","Mississippi Valley St.","SWAC",200,70.425,22,60,6,20,17,30,13,21,34,11,8,5,10,14,67
+"1327",2023-02-20,"conf",TRUE,"HawaiiCal St. Bakersfield2-20","Hawaii","BW","Cal St. Bakersfield","BW",200,58.3625,20,49,8,20,13,18,11,19,30,9,5,4,12,10,61
+"1328",2023-02-20,"conf",FALSE,"HawaiiCal St. Bakersfield2-20","Cal St. Bakersfield","BW","Hawaii","BW",200,58.3625,18,51,3,5,11,13,14,20,34,4,7,7,15,19,50
+"1329",2023-02-20,"conf",FALSE,"HowardMorgan St.2-20","Howard","MEAC","Morgan St.","MEAC",200,72.75,26,66,6,24,18,27,20,23,43,9,5,0,15,21,76
+"1330",2023-02-20,"conf",TRUE,"HowardMorgan St.2-20","Morgan St.","MEAC","Howard","MEAC",200,72.75,30,55,7,19,22,33,8,24,32,18,9,6,9,19,89
+"1331",2023-02-20,"conf",TRUE,"North Carolina CentralMaryland Eastern Shore2-20","North Carolina Central","MEAC","Maryland Eastern Shore","MEAC",200,77.7875,24,55,2,10,18,29,13,26,39,14,12,4,22,16,68
+"1332",2023-02-20,"conf",FALSE,"North Carolina CentralMaryland Eastern Shore2-20","Maryland Eastern Shore","MEAC","North Carolina Central","MEAC",200,77.7875,25,59,6,29,7,8,4,16,20,13,12,2,19,23,63
+"1333",2023-02-20,"conf",TRUE,"Texas A&M CommerceNicholls St.2-20","Texas A&M Commerce","Slnd","Nicholls St.","Slnd",200,68.6,27,61,6,22,12,19,14,25,39,14,5,4,12,17,72
+"1334",2023-02-20,"conf",FALSE,"Texas A&M CommerceNicholls St.2-20","Nicholls St.","Slnd","Texas A&M Commerce","Slnd",200,68.6,29,63,8,19,5,13,13,25,38,14,7,4,13,19,71
+"1335",2023-02-20,"conf",FALSE,"MinnesotaIllinois2-20","Minnesota","B10","Illinois","B10",200,66.2375,27,57,6,17,9,15,7,26,33,14,5,1,9,20,69
+"1336",2023-02-20,"conf",TRUE,"MinnesotaIllinois2-20","Illinois","B10","Minnesota","B10",200,66.2375,27,56,10,26,14,26,10,27,37,8,4,2,8,18,78
+"1337",2023-02-20,"conf",TRUE,"Florida A&MAlabama A&M2-20","Florida A&M","SWAC","Alabama A&M","SWAC",200,69.275,26,55,5,19,20,25,9,32,41,10,6,11,11,22,77
+"1338",2023-02-20,"conf",FALSE,"Florida A&MAlabama A&M2-20","Alabama A&M","SWAC","Florida A&M","SWAC",200,69.275,22,59,8,18,19,33,13,24,37,14,6,4,8,19,71
+"1339",2023-02-20,"conf",TRUE,"KansasTCU2-20","Kansas","B12","TCU","B12",200,69.3375,26,66,3,16,8,12,13,35,48,19,6,3,11,17,63
+"1340",2023-02-20,"conf",FALSE,"KansasTCU2-20","TCU","B12","Kansas","B12",200,69.3375,20,66,5,18,13,21,14,28,42,13,5,5,7,14,58
+"1341",2023-02-20,"conf",FALSE,"Arkansas Pine BluffTexas Southern2-20","Arkansas Pine Bluff","SWAC","Texas Southern","SWAC",200,68.475,21,60,7,21,10,17,8,25,33,7,7,4,10,21,59
+"1342",2023-02-20,"conf",TRUE,"Arkansas Pine BluffTexas Southern2-20","Texas Southern","SWAC","Arkansas Pine Bluff","SWAC",200,68.475,20,55,5,24,19,25,12,35,47,14,6,3,12,18,64
+"1343",2023-02-20,"conf",TRUE,"Bethune CookmanAlabama St.2-20","Bethune Cookman","SWAC","Alabama St.","SWAC",200,63.5,27,60,4,15,12,17,15,22,37,10,7,1,11,16,70
+"1344",2023-02-20,"conf",FALSE,"Bethune CookmanAlabama St.2-20","Alabama St.","SWAC","Bethune Cookman","SWAC",200,63.5,23,54,6,21,13,23,14,18,32,16,7,4,12,15,65
+"1345",2023-02-20,"conf",TRUE,"UC RiversideCal St. Northridge2-20","UC Riverside","BW","Cal St. Northridge","BW",200,73.6375,36,64,12,26,12,19,12,18,30,21,8,2,11,25,96
+"1346",2023-02-20,"conf",FALSE,"UC RiversideCal St. Northridge2-20","Cal St. Northridge","BW","UC Riverside","BW",200,73.6375,27,53,2,13,20,30,9,21,30,9,4,4,17,18,76
+"1347",2023-02-20,"conf",TRUE,"Cal St. FullertonUC Santa Barbara2-20","Cal St. Fullerton","BW","UC Santa Barbara","BW",200,60.2375,26,55,5,17,17,21,8,27,35,13,4,2,3,18,74
+"1348",2023-02-20,"conf",FALSE,"Cal St. FullertonUC Santa Barbara2-20","UC Santa Barbara","BW","Cal St. Fullerton","BW",200,60.2375,21,49,5,18,13,20,5,24,29,13,0,3,7,18,60
+"1349",2023-02-20,"conf",TRUE,"UC IrvineCal Poly2-20","UC Irvine","BW","Cal Poly","BW",200,64.2875,20,47,3,8,16,18,6,31,37,12,5,3,15,22,59
+"1350",2023-02-20,"conf",FALSE,"UC IrvineCal Poly2-20","Cal Poly","BW","UC Irvine","BW",200,64.2875,18,55,6,19,14,19,9,22,31,8,4,1,9,17,56
+"1351",2023-02-20,"conf",FALSE,"Mississippi Valley St.Prairie View A&M2-20","Mississippi Valley St.","SWAC","Prairie View A&M","SWAC",200,70.425,25,50,5,6,10,16,7,30,37,7,4,0,19,21,65
+"1352",2023-02-20,"conf",TRUE,"Mississippi Valley St.Prairie View A&M2-20","Prairie View A&M","SWAC","Mississippi Valley St.","SWAC",200,70.425,22,60,6,20,17,30,13,21,34,11,8,5,10,14,67
+"1353",2023-02-20,"nond1",FALSE,"Dallas ChristianUT Rio Grande Valley2-20","Dallas Christian",NA,"UT Rio Grande Valley",NA,200,86.675,22,70,9,37,12,15,3,22,25,13,7,3,13,13,65
+"1354",2023-02-20,"nond1",TRUE,"Dallas ChristianUT Rio Grande Valley2-20","UT Rio Grande Valley","WAC","Dallas Christian","WAC",200,86.675,49,87,9,36,6,11,18,46,64,36,4,3,12,15,113
 "1355",2023-02-19,"conf",TRUE,"CincinnatiUCF2-19","Cincinnati","Amer","UCF","Amer",200,62.8625,29,53,4,15,11,15,11,20,31,13,4,0,15,15,73
 "1356",2023-02-19,"conf",FALSE,"CincinnatiUCF2-19","UCF","Amer","Cincinnati","Amer",200,62.8625,26,55,8,21,11,16,10,14,24,10,7,1,9,14,71
 "1357",2023-02-19,"conf",FALSE,"IUPUIDetroit2-19","IUPUI","Horz","Detroit","Horz",200,64.525,27,53,5,9,9,14,12,14,26,11,9,3,17,17,68
