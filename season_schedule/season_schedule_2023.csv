@@ -5963,6 +5963,7 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-08,conf_t,TRUE,Pittsburgh,ACC,Georgia Tech,ACC,Georgia TechPittsburgh3-8,2023
 2023-03-08,conf_t,TRUE,George Mason,A10,Richmond,A10,RichmondGeorge Mason3-8,2023
 2023-03-08,conf_t,TRUE,St. Bonaventure,A10,Davidson,A10,DavidsonSt. Bonaventure3-8,2023
+2023-03-08,conf_t,TRUE,Montana St.,BSky,Northern Arizona,BSky,Northern ArizonaMontana St.3-8,2023
 2023-03-08,conf_t,TRUE,Nebraska,B10,Minnesota,B10,MinnesotaNebraska3-8,2023
 2023-03-08,conf_t,TRUE,South Carolina,SEC,Mississippi,SEC,MississippiSouth Carolina3-8,2023
 2023-03-08,conf_t,TRUE,New Mexico,MWC,Wyoming,MWC,WyomingNew Mexico3-8,2023
@@ -5985,65 +5986,101 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-08,conf_t,TRUE,Iona,MAAC,Mount St. Mary's,MAAC,Mount St. Mary'sIona3-8,2023
 2023-03-08,conf_t,TRUE,UNLV,MWC,Air Force,MWC,Air ForceUNLV3-8,2023
 2023-03-08,conf_t,TRUE,Utah,P12,Stanford,P12,StanfordUtah3-8,2023
-2023-03-08,conf_t,TRUE,Montana St.,BSky,Northern Arizona,BSky,Northern ArizonaMontana St.3-8,2023
-2023-03-09,conf_t,TRUE,Wake Forest,ACC,Miami FL,ACC,Miami FLWake Forest3-9,2023
-2023-03-09,conf_t,TRUE,Vanderbilt,SEC,LSU,SEC,LSUVanderbilt3-9,2023
-2023-03-09,conf_t,TRUE,Pittsburgh,ACC,Duke,ACC,DukePittsburgh3-9,2023
-2023-03-09,conf_t,TRUE,Tennessee,SEC,Mississippi,SEC,MississippiTennessee3-9,2023
-2023-03-09,conf_t,TRUE,Saint Joseph's,A10,Dayton,A10,DaytonSaint Joseph's3-9,2023
-2023-03-09,conf_t,TRUE,Utah Valley,WAC,Tarleton St.,WAC,Tarleton St.Utah Valley3-9,2023
-2023-03-09,conf_t,TRUE,Connecticut,BE,Providence,BE,ProvidenceConnecticut3-9,2023
-2023-03-09,conf_t,TRUE,UCF,Amer,SMU,Amer,SMUUCF3-9,2023
-2023-03-09,conf_t,TRUE,Kent St.,MAC,Northern Illinois,MAC,Northern IllinoisKent St.3-9,2023
-2023-03-09,conf_t,TRUE,Oregon,P12,Washington St.,P12,Washington St.Oregon3-9,2023
-2023-03-09,conf_t,TRUE,UAB,CUSA,Rice,CUSA,RiceUAB3-9,2023
-2023-03-09,conf_t,TRUE,Maryland,B10,Minnesota,B10,MinnesotaMaryland3-9,2023
-2023-03-09,conf_t,TRUE,Creighton,BE,Villanova,BE,VillanovaCreighton3-9,2023
 2023-03-09,conf_t,TRUE,UC Santa Barbara,BW,Cal Poly,BW,Cal PolyUC Santa Barbara3-9,2023
-2023-03-09,conf_t,TRUE,UCLA,P12,Colorado,P12,ColoradoUCLA3-9,2023
-2023-03-09,conf_t,TRUE,Cal St. Fullerton,BW,Hawaii,BW,HawaiiCal St. Fullerton3-9,2023
 2023-03-09,conf_t,TRUE,Toledo,MAC,Miami OH,MAC,Miami OHToledo3-9,2023
-2023-03-09,conf_t,TRUE,Seattle,WAC,Grand Canyon,WAC,Grand CanyonSeattle3-9,2023
-2023-03-09,conf_t,TRUE,Jackson St.,SWAC,Prairie View A&M,SWAC,Prairie View A&MJackson St.3-9,2023
-2023-03-09,conf_t,TRUE,Maryland Eastern Shore,MEAC,Morgan St.,MEAC,Morgan St.Maryland Eastern Shore3-9,2023
-2023-03-09,conf_t,TRUE,Kansas St.,B12,TCU,B12,TCUKansas St.3-9,2023
-2023-03-09,conf_t,TRUE,Norfolk St.,MEAC,Coppin St.,MEAC,Coppin St.Norfolk St.3-9,2023
-2023-03-09,conf_t,TRUE,Baylor,B12,Iowa St.,B12,Iowa St.Baylor3-9,2023
-2023-03-09,conf_t,TRUE,Southern,SWAC,Alabama A&M,SWAC,Alabama A&MSouthern3-9,2023
-2023-03-09,conf_t,TRUE,Texas,B12,Oklahoma St.,B12,Oklahoma St.Texas3-9,2023
-2023-03-09,conf_t,TRUE,North Texas,CUSA,Louisiana Tech,CUSA,Louisiana TechNorth Texas3-9,2023
-2023-03-09,conf_t,TRUE,Middle Tennessee,CUSA,Charlotte,CUSA,CharlotteMiddle Tennessee3-9,2023
-2023-03-09,conf_t,TRUE,Marquette,BE,St. John's,BE,St. John'sMarquette3-9,2023
-2023-03-09,conf_t,TRUE,USC,P12,Arizona St.,P12,Arizona St.USC3-9,2023
 2023-03-09,conf_t,TRUE,Clemson,ACC,North Carolina St.,ACC,North Carolina St.Clemson3-9,2023
-2023-03-09,conf_t,TRUE,Wichita St.,Amer,Tulsa,Amer,TulsaWichita St.3-9,2023
-2023-03-09,conf_t,TRUE,Sam Houston St.,WAC,Cal Baptist,WAC,Cal BaptistSam Houston St.3-9,2023
-2023-03-09,conf_t,TRUE,Auburn,SEC,Arkansas,SEC,ArkansasAuburn3-9,2023
 2023-03-09,conf_t,TRUE,UC Irvine,BW,Cal St. Bakersfield,BW,Cal St. BakersfieldUC Irvine3-9,2023
-2023-03-09,conf_t,TRUE,Akron,MAC,Buffalo,MAC,BuffaloAkron3-9,2023
-2023-03-09,conf_t,TRUE,Florida Atlantic,CUSA,Western Kentucky,CUSA,Western KentuckyFlorida Atlantic3-9,2023
-2023-03-09,conf_t,TRUE,Iowa,B10,Ohio St.,B10,Ohio St.Iowa3-9,2023
-2023-03-09,conf_t,TRUE,San Diego St.,MWC,Colorado St.,MWC,Colorado St.San Diego St.3-9,2023
-2023-03-09,conf_t,TRUE,Southern Utah,WAC,Utah Tech,WAC,Utah TechSouthern Utah3-9,2023
-2023-03-09,conf_t,TRUE,Ball St.,MAC,Ohio,MAC,OhioBall St.3-9,2023
-2023-03-09,conf_t,TRUE,Quinnipiac,MAAC,Marist,MAAC,MaristQuinnipiac3-9,2023
-2023-03-09,conf_t,TRUE,Virginia,ACC,North Carolina,ACC,North CarolinaVirginia3-9,2023
-2023-03-09,conf_t,TRUE,Kansas,B12,West Virginia,B12,West VirginiaKansas3-9,2023
-2023-03-09,conf_t,TRUE,Arizona,P12,Stanford,P12,StanfordArizona3-9,2023
-2023-03-09,conf_t,TRUE,VCU,A10,Davidson,A10,DavidsonVCU3-9,2023
-2023-03-09,conf_t,TRUE,Illinois,B10,Penn St.,B10,Penn St.Illinois3-9,2023
-2023-03-09,conf_t,TRUE,Utah St.,MWC,New Mexico,MWC,New MexicoUtah St.3-9,2023
+2023-03-09,conf_t,TRUE,UAB,CUSA,Rice,CUSA,RiceUAB3-9,2023
 2023-03-09,conf_t,TRUE,Xavier,BE,DePaul,BE,DePaulXavier3-9,2023
-2023-03-09,conf_t,TRUE,Boise St.,MWC,UNLV,MWC,UNLVBoise St.3-9,2023
-2023-03-09,conf_t,TRUE,Fordham,A10,La Salle,A10,La SalleFordham3-9,2023
-2023-03-09,conf_t,TRUE,Nevada,MWC,San Jose St.,MWC,San Jose St.Nevada3-9,2023
-2023-03-09,conf_t,TRUE,Florida,SEC,Mississippi St.,SEC,Mississippi St.Florida3-9,2023
-2023-03-09,conf_t,TRUE,Siena,MAAC,Niagara,MAAC,NiagaraSiena3-9,2023
-2023-03-09,conf_t,TRUE,Michigan,B10,Rutgers,B10,RutgersMichigan3-9,2023
-2023-03-09,conf_t,TRUE,Saint Louis,A10,George Mason,A10,George MasonSaint Louis3-9,2023
+2023-03-09,conf_t,TRUE,Middle Tennessee,CUSA,Charlotte,CUSA,CharlotteMiddle Tennessee3-9,2023
+2023-03-09,conf_t,TRUE,Wake Forest,ACC,Miami FL,ACC,Miami FLWake Forest3-9,2023
+2023-03-09,conf_t,TRUE,Florida Atlantic,CUSA,Western Kentucky,CUSA,Western KentuckyFlorida Atlantic3-9,2023
+2023-03-09,conf_t,TRUE,Seattle,WAC,Grand Canyon,WAC,Grand CanyonSeattle3-9,2023
+2023-03-09,conf_t,TRUE,Creighton,BE,Villanova,BE,VillanovaCreighton3-9,2023
+2023-03-09,conf_t,TRUE,Utah St.,MWC,New Mexico,MWC,New MexicoUtah St.3-9,2023
+2023-03-09,conf_t,TRUE,Quinnipiac,MAAC,Marist,MAAC,MaristQuinnipiac3-9,2023
+2023-03-09,conf_t,TRUE,Maryland,B10,Minnesota,B10,MinnesotaMaryland3-9,2023
+2023-03-09,conf_t,TRUE,Arizona,P12,Stanford,P12,StanfordArizona3-9,2023
+2023-03-09,conf_t,TRUE,Illinois,B10,Penn St.,B10,Penn St.Illinois3-9,2023
+2023-03-09,conf_t,TRUE,Cal St. Fullerton,BW,Hawaii,BW,HawaiiCal St. Fullerton3-9,2023
 2023-03-09,conf_t,TRUE,UC Riverside,BW,UC Davis,BW,UC DavisUC Riverside3-9,2023
+2023-03-09,conf_t,TRUE,Vanderbilt,SEC,LSU,SEC,LSUVanderbilt3-9,2023
+2023-03-09,conf_t,TRUE,Baylor,B12,Iowa St.,B12,Iowa St.Baylor3-9,2023
+2023-03-09,conf_t,TRUE,Ball St.,MAC,Ohio,MAC,OhioBall St.3-9,2023
+2023-03-09,conf_t,TRUE,Kent St.,MAC,Northern Illinois,MAC,Northern IllinoisKent St.3-9,2023
+2023-03-09,conf_t,TRUE,Marquette,BE,St. John's,BE,St. John'sMarquette3-9,2023
+2023-03-09,conf_t,TRUE,Sam Houston St.,WAC,Cal Baptist,WAC,Cal BaptistSam Houston St.3-9,2023
+2023-03-09,conf_t,TRUE,UCF,Amer,SMU,Amer,SMUUCF3-9,2023
+2023-03-09,conf_t,TRUE,Connecticut,BE,Providence,BE,ProvidenceConnecticut3-9,2023
+2023-03-09,conf_t,TRUE,VCU,A10,Davidson,A10,DavidsonVCU3-9,2023
+2023-03-09,conf_t,TRUE,Southern Utah,WAC,Utah Tech,WAC,Utah TechSouthern Utah3-9,2023
+2023-03-09,conf_t,TRUE,Akron,MAC,Buffalo,MAC,BuffaloAkron3-9,2023
+2023-03-09,conf_t,TRUE,Pittsburgh,ACC,Duke,ACC,DukePittsburgh3-9,2023
+2023-03-09,conf_t,TRUE,UCLA,P12,Colorado,P12,ColoradoUCLA3-9,2023
+2023-03-09,conf_t,TRUE,North Texas,CUSA,Louisiana Tech,CUSA,Louisiana TechNorth Texas3-9,2023
+2023-03-09,conf_t,TRUE,Nevada,MWC,San Jose St.,MWC,San Jose St.Nevada3-9,2023
+2023-03-09,conf_t,TRUE,Norfolk St.,MEAC,Coppin St.,MEAC,Coppin St.Norfolk St.3-9,2023
+2023-03-09,conf_t,TRUE,Tennessee,SEC,Mississippi,SEC,MississippiTennessee3-9,2023
+2023-03-09,conf_t,TRUE,Jackson St.,SWAC,Prairie View A&M,SWAC,Prairie View A&MJackson St.3-9,2023
+2023-03-09,conf_t,TRUE,Texas,B12,Oklahoma St.,B12,Oklahoma St.Texas3-9,2023
+2023-03-09,conf_t,TRUE,Maryland Eastern Shore,MEAC,Morgan St.,MEAC,Morgan St.Maryland Eastern Shore3-9,2023
+2023-03-09,conf_t,TRUE,Kansas,B12,West Virginia,B12,West VirginiaKansas3-9,2023
+2023-03-09,conf_t,TRUE,San Diego St.,MWC,Colorado St.,MWC,Colorado St.San Diego St.3-9,2023
+2023-03-09,conf_t,TRUE,Michigan,B10,Rutgers,B10,RutgersMichigan3-9,2023
 2023-03-09,conf_t,TRUE,South Florida,Amer,East Carolina,Amer,East CarolinaSouth Florida3-9,2023
+2023-03-09,conf_t,TRUE,Kansas St.,B12,TCU,B12,TCUKansas St.3-9,2023
+2023-03-09,conf_t,TRUE,Auburn,SEC,Arkansas,SEC,ArkansasAuburn3-9,2023
+2023-03-09,conf_t,TRUE,Virginia,ACC,North Carolina,ACC,North CarolinaVirginia3-9,2023
+2023-03-09,conf_t,TRUE,Southern,SWAC,Alabama A&M,SWAC,Alabama A&MSouthern3-9,2023
+2023-03-09,conf_t,TRUE,Fordham,A10,La Salle,A10,La SalleFordham3-9,2023
+2023-03-09,conf_t,TRUE,Wichita St.,Amer,Tulsa,Amer,TulsaWichita St.3-9,2023
+2023-03-09,conf_t,TRUE,Iowa,B10,Ohio St.,B10,Ohio St.Iowa3-9,2023
+2023-03-09,conf_t,TRUE,Oregon,P12,Washington St.,P12,Washington St.Oregon3-9,2023
+2023-03-09,conf_t,TRUE,Florida,SEC,Mississippi St.,SEC,Mississippi St.Florida3-9,2023
+2023-03-09,conf_t,TRUE,Saint Joseph's,A10,Dayton,A10,DaytonSaint Joseph's3-9,2023
+2023-03-09,conf_t,TRUE,Saint Louis,A10,George Mason,A10,George MasonSaint Louis3-9,2023
+2023-03-09,conf_t,TRUE,USC,P12,Arizona St.,P12,Arizona St.USC3-9,2023
+2023-03-09,conf_t,TRUE,Siena,MAAC,Niagara,MAAC,NiagaraSiena3-9,2023
+2023-03-09,conf_t,TRUE,Utah Valley,WAC,Tarleton St.,WAC,Tarleton St.Utah Valley3-9,2023
+2023-03-09,conf_t,TRUE,Boise St.,MWC,UNLV,MWC,UNLVBoise St.3-9,2023
+2023-03-10,conf_t,TRUE,Penn St.,B10,Northwestern,B10,NorthwesternPenn St.3-10,2023
+2023-03-10,conf_t,TRUE,Jackson St.,SWAC,Grambling St.,SWAC,Grambling St.Jackson St.3-10,2023
+2023-03-10,conf_t,TRUE,San Jose St.,MWC,San Diego St.,MWC,San Diego St.San Jose St.3-10,2023
+2023-03-10,conf_t,TRUE,Houston,Amer,East Carolina,Amer,East CarolinaHouston3-10,2023
+2023-03-10,conf_t,TRUE,Texas Southern,SWAC,Alabama A&M,SWAC,Alabama A&MTexas Southern3-10,2023
+2023-03-10,conf_t,TRUE,Rutgers,B10,Purdue,B10,PurdueRutgers3-10,2023
+2023-03-10,conf_t,TRUE,North Texas,CUSA,UAB,CUSA,UABNorth Texas3-10,2023
+2023-03-10,conf_t,TRUE,Indiana,B10,Maryland,B10,MarylandIndiana3-10,2023
+2023-03-10,conf_t,TRUE,UC Santa Barbara,BW,UC Riverside,BW,UC RiversideUC Santa Barbara3-10,2023
+2023-03-10,conf_t,TRUE,Michigan St.,B10,Ohio St.,B10,Ohio St.Michigan St.3-10,2023
+2023-03-10,conf_t,TRUE,Utah Valley,WAC,Southern Utah,WAC,Southern UtahUtah Valley3-10,2023
+2023-03-10,conf_t,TRUE,Sam Houston St.,WAC,Grand Canyon,WAC,Grand CanyonSam Houston St.3-10,2023
+2023-03-10,conf_t,TRUE,Alabama,SEC,Mississippi St.,SEC,Mississippi St.Alabama3-10,2023
 2023-03-10,conf_t,TRUE,Cincinnati,Amer,Temple,Amer,TempleCincinnati3-10,2023
+2023-03-10,conf_t,TRUE,UCLA,P12,Oregon,P12,OregonUCLA3-10,2023
+2023-03-10,conf_t,TRUE,Arizona,P12,Arizona St.,P12,Arizona St.Arizona3-10,2023
+2023-03-10,conf_t,TRUE,Kent St.,MAC,Akron,MAC,AkronKent St.3-10,2023
+2023-03-10,conf_t,TRUE,Iona,MAAC,Niagara,MAAC,NiagaraIona3-10,2023
+2023-03-10,conf_t,TRUE,Missouri,SEC,Tennessee,SEC,TennesseeMissouri3-10,2023
+2023-03-10,conf_t,TRUE,Toledo,MAC,Ohio,MAC,OhioToledo3-10,2023
+2023-03-10,conf_t,TRUE,Xavier,BE,Creighton,BE,CreightonXavier3-10,2023
+2023-03-10,conf_t,TRUE,Marquette,BE,Connecticut,BE,ConnecticutMarquette3-10,2023
+2023-03-10,conf_t,TRUE,Texas,B12,TCU,B12,TCUTexas3-10,2023
+2023-03-10,conf_t,TRUE,Virginia,ACC,Clemson,ACC,ClemsonVirginia3-10,2023
+2023-03-10,conf_t,TRUE,Memphis,Amer,UCF,Amer,UCFMemphis3-10,2023
+2023-03-10,conf_t,TRUE,Florida Atlantic,CUSA,Middle Tennessee,CUSA,Middle TennesseeFlorida Atlantic3-10,2023
+2023-03-10,conf_t,TRUE,Howard,MEAC,Maryland Eastern Shore,MEAC,Maryland Eastern ShoreHoward3-10,2023
+2023-03-10,conf_t,TRUE,Boise St.,MWC,Utah St.,MWC,Utah St.Boise St.3-10,2023
+2023-03-10,conf_t,TRUE,UC Irvine,BW,Cal St. Fullerton,BW,Cal St. FullertonUC Irvine3-10,2023
+2023-03-10,conf_t,TRUE,North Carolina Central,MEAC,Norfolk St.,MEAC,Norfolk St.North Carolina Central3-10,2023
+2023-03-10,conf_t,TRUE,Kentucky,SEC,Vanderbilt,SEC,VanderbiltKentucky3-10,2023
+2023-03-10,conf_t,TRUE,Kansas,B12,Iowa St.,B12,Iowa St.Kansas3-10,2023
+2023-03-10,conf_t,TRUE,Saint Peter's,MAAC,Marist,MAAC,MaristSaint Peter's3-10,2023
+2023-03-10,conf_t,TRUE,Texas A&M,SEC,Arkansas,SEC,ArkansasTexas A&M3-10,2023
+2023-03-10,conf_t,TRUE,Tulane,Amer,Wichita St.,Amer,Wichita St.Tulane3-10,2023
+2023-03-10,conf_t,TRUE,Miami FL,ACC,Duke,ACC,DukeMiami FL3-10,2023
+2023-03-11,conf_t,TRUE,VCU,A10,Saint Louis,A10,Saint LouisVCU3-11,2023
 2023-03-11,conf_t,TRUE,Yale,Ivy,Cornell,Ivy,CornellYale3-11,2023
 2023-03-11,conf_t,FALSE,Princeton,Ivy,Penn,Ivy,PennPrinceton3-11,2023
 2023-03-11,conf_t,FALSE,Vermont,AE,UMass Lowell,AE,UMass LowellVermont3-11,2023
+2023-03-11,conf_t,TRUE,Dayton,A10,Fordham,A10,FordhamDayton3-11,2023
