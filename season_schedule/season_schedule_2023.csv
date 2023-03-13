@@ -5984,7 +5984,7 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-08,conf_t,TRUE,Washington St.,P12,California,P12,CaliforniaWashington St.3-8,2023
 2023-03-08,conf_t,TRUE,Arizona St.,P12,Oregon St.,P12,Oregon St.Arizona St.3-8,2023
 2023-03-08,conf_t,TRUE,Iona,MAAC,Mount St. Mary's,MAAC,Mount St. Mary'sIona3-8,2023
-2023-03-08,conf_t,TRUE,UNLV,MWC,Air Force,MWC,Air ForceUNLV3-8,2023
+2023-03-08,conf_t,FALSE,UNLV,MWC,Air Force,MWC,Air ForceUNLV3-8,2023
 2023-03-08,conf_t,TRUE,Utah,P12,Stanford,P12,StanfordUtah3-8,2023
 2023-03-09,conf_t,TRUE,UC Santa Barbara,BW,Cal Poly,BW,Cal PolyUC Santa Barbara3-9,2023
 2023-03-09,conf_t,TRUE,Toledo,MAC,Miami OH,MAC,Miami OHToledo3-9,2023
@@ -6042,7 +6042,7 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-09,conf_t,TRUE,USC,P12,Arizona St.,P12,Arizona St.USC3-9,2023
 2023-03-09,conf_t,TRUE,Siena,MAAC,Niagara,MAAC,NiagaraSiena3-9,2023
 2023-03-09,conf_t,TRUE,Utah Valley,WAC,Tarleton St.,WAC,Tarleton St.Utah Valley3-9,2023
-2023-03-09,conf_t,TRUE,Boise St.,MWC,UNLV,MWC,UNLVBoise St.3-9,2023
+2023-03-09,conf_t,FALSE,UNLV,MWC,Boise St.,MWC,Boise St.UNLV3-9,2023
 2023-03-10,conf_t,TRUE,UC Santa Barbara,BW,UC Riverside,BW,UC RiversideUC Santa Barbara3-10,2023
 2023-03-10,conf_t,TRUE,Toledo,MAC,Ohio,MAC,OhioToledo3-10,2023
 2023-03-10,conf_t,TRUE,Indiana,B10,Maryland,B10,MarylandIndiana3-10,2023
@@ -6102,8 +6102,64 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-11,conf_t,TRUE,VCU,A10,Saint Louis,A10,Saint LouisVCU3-11,2023
 2023-03-11,conf_t,TRUE,Houston,Amer,Cincinnati,Amer,CincinnatiHouston3-11,2023
 2023-03-11,conf_t,TRUE,Dayton,A10,Fordham,A10,FordhamDayton3-11,2023
+2023-03-12,conf_t,TRUE,Purdue,B10,Penn St.,B10,Penn St.Purdue3-12,2023
+2023-03-12,conf_t,FALSE,Princeton,Ivy,Yale,Ivy,YalePrinceton3-12,2023
+2023-03-12,conf_t,TRUE,VCU,A10,Dayton,A10,DaytonVCU3-12,2023
 2023-03-12,conf_t,TRUE,Houston,Amer,Memphis,Amer,MemphisHouston3-12,2023
 2023-03-12,conf_t,TRUE,Alabama,SEC,Texas A&M,SEC,Texas A&MAlabama3-12,2023
-2023-03-12,conf_t,TRUE,Purdue,B10,Penn St.,B10,Penn St.Purdue3-12,2023
-2023-03-12,conf_t,TRUE,Yale,Ivy,Princeton,Ivy,PrincetonYale3-12,2023
-2023-03-12,conf_t,TRUE,VCU,A10,Dayton,A10,DaytonVCU3-12,2023
+2023-03-14,post,TRUE,Mississippi St.,SEC,Pittsburgh,ACC,PittsburghMississippi St.3-14,2023
+2023-03-14,post,TRUE,Texas A&M Corpus Chris,Slnd,Southeast Missouri St.,OVC,Southeast Missouri St.Texas A&M Corpus Chris3-14,2023
+2023-03-14,post,FALSE,Wisconsin,B10,Bradley,MVC,BradleyWisconsin3-14,2023
+2023-03-14,post,FALSE,Rutgers,B10,Hofstra,CAA,HofstraRutgers3-14,2023
+2023-03-14,post,FALSE,Liberty,ASun,Villanova,BE,VillanovaLiberty3-14,2023
+2023-03-14,post,FALSE,Michigan,B10,Toledo,MAC,ToledoMichigan3-14,2023
+2023-03-14,post,FALSE,Washington St.,P12,Eastern Washington,BSky,Eastern WashingtonWashington St.3-14,2023
+2023-03-14,post,FALSE,Colorado,P12,Seton Hall,BE,Seton HallColorado3-14,2023
+2023-03-14,post,FALSE,Vanderbilt,SEC,Yale,Ivy,YaleVanderbilt3-14,2023
+2023-03-14,post,FALSE,UAB,CUSA,Southern Miss,SB,Southern MissUAB3-14,2023
+2023-03-15,post,FALSE,New Mexico,MWC,Utah Valley,WAC,Utah ValleyNew Mexico3-15,2023
+2023-03-15,post,TRUE,Arizona St.,P12,Nevada,MWC,NevadaArizona St.3-15,2023
+2023-03-15,post,FALSE,Oregon,P12,UC Irvine,BW,UC IrvineOregon3-15,2023
+2023-03-15,post,FALSE,North Texas,CUSA,Alcorn St.,SWAC,Alcorn St.North Texas3-15,2023
+2023-03-15,post,TRUE,Texas Southern,SWAC,Fairleigh Dickinson,NEC,Fairleigh DickinsonTexas Southern3-15,2023
+2023-03-15,post,FALSE,Oklahoma St.,B12,Youngstown St.,Horz,Youngstown St.Oklahoma St.3-15,2023
+2023-03-15,post,FALSE,Florida,SEC,UCF,Amer,UCFFlorida3-15,2023
+2023-03-15,post,FALSE,Clemson,ACC,Morehead St.,OVC,Morehead St.Clemson3-15,2023
+2023-03-15,post,FALSE,Sam Houston St.,WAC,Santa Clara,WCC,Santa ClaraSam Houston St.3-15,2023
+2023-03-15,post,FALSE,Cincinnati,Amer,Virginia Tech,ACC,Virginia TechCincinnati3-15,2023
+2023-03-16,post,TRUE,Missouri,SEC,Utah St.,MWC,Utah St.Missouri3-16,2023
+2023-03-16,post,TRUE,Arizona,P12,Princeton,Ivy,PrincetonArizona3-16,2023
+2023-03-16,post,TRUE,Virginia,ACC,Furman,SC,FurmanVirginia3-16,2023
+2023-03-16,post,TRUE,Northwestern,B10,Boise St.,MWC,Boise St.Northwestern3-16,2023
+2023-03-16,post,TRUE,Arkansas,SEC,Illinois,B10,IllinoisArkansas3-16,2023
+2023-03-16,post,TRUE,Texas,B12,Colgate,Pat,ColgateTexas3-16,2023
+2023-03-16,post,TRUE,San Diego St.,MWC,College of Charleston,CAA,College of CharlestonSan Diego St.3-16,2023
+2023-03-16,post,TRUE,Houston,Amer,Northern Kentucky,Horz,Northern KentuckyHouston3-16,2023
+2023-03-16,post,TRUE,Iowa,B10,Auburn,SEC,AuburnIowa3-16,2023
+2023-03-16,post,TRUE,Kansas,B12,Howard,MEAC,HowardKansas3-16,2023
+2023-03-16,post,TRUE,Texas A&M,SEC,Penn St.,B10,Penn St.Texas A&M3-16,2023
+2023-03-16,post,TRUE,Maryland,B10,West Virginia,B12,West VirginiaMaryland3-16,2023
+2023-03-16,post,TRUE,UCLA,P12,UNC Asheville,BSth,UNC AshevilleUCLA3-16,2023
+2023-03-16,post,TRUE,Duke,ACC,Oral Roberts,Sum,Oral RobertsDuke3-16,2023
+2023-03-16,post,TRUE,Tennessee,SEC,Louisiana Lafayette,SB,Louisiana LafayetteTennessee3-16,2023
+2023-03-17,post,TRUE,Kansas St.,B12,Montana St.,BSky,Montana St.Kansas St.3-17,2023
+2023-03-17,post,TRUE,Indiana,B10,Kent St.,MAC,Kent St.Indiana3-17,2023
+2023-03-17,post,TRUE,Xavier,BE,Kennesaw St.,ASun,Kennesaw St.Xavier3-17,2023
+2023-03-17,post,TRUE,Michigan St.,B10,USC,P12,USCMichigan St.3-17,2023
+2023-03-17,post,TRUE,Marquette,BE,Vermont,AE,VermontMarquette3-17,2023
+2023-03-17,post,TRUE,Connecticut,BE,Iona,MAAC,IonaConnecticut3-17,2023
+2023-03-17,post,TRUE,Creighton,BE,North Carolina St.,ACC,North Carolina St.Creighton3-17,2023
+2023-03-17,post,TRUE,Baylor,B12,UC Santa Barbara,BW,UC Santa BarbaraBaylor3-17,2023
+2023-03-17,post,TRUE,Memphis,Amer,Florida Atlantic,CUSA,Florida AtlanticMemphis3-17,2023
+2023-03-17,post,TRUE,Miami FL,ACC,Drake,MVC,DrakeMiami FL3-17,2023
+2023-03-17,post,TRUE,Saint Mary's,WCC,VCU,A10,VCUSaint Mary's3-17,2023
+2023-03-17,post,TRUE,Kentucky,SEC,Providence,BE,ProvidenceKentucky3-17,2023
+2023-03-17,post,TRUE,Gonzaga,WCC,Grand Canyon,WAC,Grand CanyonGonzaga3-17,2023
+2023-03-18,post,TRUE,Indiana St.,MVC,USC Upstate,BSth,USC UpstateIndiana St.3-18,2023
+2023-03-18,post,TRUE,Southern Utah,WAC,North Alabama,ASun,North AlabamaSouthern Utah3-18,2023
+2023-03-18,post,TRUE,San Jose St.,MWC,Southern Indiana,OVC,Southern IndianaSan Jose St.3-18,2023
+2023-03-18,post,TRUE,Charlotte,CUSA,Western Carolina,SC,Western CarolinaCharlotte3-18,2023
+2023-03-19,post,TRUE,Tarleton St.,WAC,Radford,BSth,RadfordTarleton St.3-19,2023
+2023-03-19,post,TRUE,Duquesne,A10,Rice,CUSA,RiceDuquesne3-19,2023
+2023-03-19,post,TRUE,Stetson,ASun,Milwaukee,Horz,MilwaukeeStetson3-19,2023
+2023-03-19,post,TRUE,Eastern Kentucky,ASun,Cleveland St.,Horz,Cleveland St.Eastern Kentucky3-19,2023
