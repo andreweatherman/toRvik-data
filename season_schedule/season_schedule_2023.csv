@@ -6134,6 +6134,7 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-16,post,TRUE,Arkansas,SEC,Illinois,B10,IllinoisArkansas3-16,2023
 2023-03-16,post,TRUE,Texas,B12,Colgate,Pat,ColgateTexas3-16,2023
 2023-03-16,post,TRUE,San Diego St.,MWC,College of Charleston,CAA,College of CharlestonSan Diego St.3-16,2023
+2023-03-16,post,TRUE,Alabama,SEC,Texas A&M Corpus Chris,Slnd,Texas A&M Corpus ChrisAlabama3-16,2023
 2023-03-16,post,TRUE,Houston,Amer,Northern Kentucky,Horz,Northern KentuckyHouston3-16,2023
 2023-03-16,post,TRUE,Iowa,B10,Auburn,SEC,AuburnIowa3-16,2023
 2023-03-16,post,TRUE,Kansas,B12,Howard,MEAC,HowardKansas3-16,2023
@@ -6146,6 +6147,7 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-17,post,TRUE,Indiana,B10,Kent St.,MAC,Kent St.Indiana3-17,2023
 2023-03-17,post,TRUE,Xavier,BE,Kennesaw St.,ASun,Kennesaw St.Xavier3-17,2023
 2023-03-17,post,TRUE,Michigan St.,B10,USC,P12,USCMichigan St.3-17,2023
+2023-03-17,post,TRUE,Iowa St.,B12,Pittsburgh,ACC,PittsburghIowa St.3-17,2023
 2023-03-17,post,TRUE,Marquette,BE,Vermont,AE,VermontMarquette3-17,2023
 2023-03-17,post,TRUE,Connecticut,BE,Iona,MAAC,IonaConnecticut3-17,2023
 2023-03-17,post,TRUE,Creighton,BE,North Carolina St.,ACC,North Carolina St.Creighton3-17,2023
@@ -6158,7 +6160,9 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-18,post,TRUE,Indiana St.,MVC,USC Upstate,BSth,USC UpstateIndiana St.3-18,2023
 2023-03-18,post,TRUE,Southern Utah,WAC,North Alabama,ASun,North AlabamaSouthern Utah3-18,2023
 2023-03-18,post,TRUE,San Jose St.,MWC,Southern Indiana,OVC,Southern IndianaSan Jose St.3-18,2023
+2023-03-18,post,FALSE,Vanderbilt,SEC,Michigan,B10,MichiganVanderbilt3-18,2023
 2023-03-18,post,TRUE,Charlotte,CUSA,Western Carolina,SC,Western CarolinaCharlotte3-18,2023
+2023-03-19,post,FALSE,Wisconsin,B10,Liberty,ASun,LibertyWisconsin3-19,2023
 2023-03-19,post,TRUE,Tarleton St.,WAC,Radford,BSth,RadfordTarleton St.3-19,2023
 2023-03-19,post,TRUE,Duquesne,A10,Rice,CUSA,RiceDuquesne3-19,2023
 2023-03-19,post,TRUE,Stetson,ASun,Milwaukee,Horz,MilwaukeeStetson3-19,2023
