@@ -6149,6 +6149,7 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-17,post,TRUE,Michigan St.,B10,USC,P12,USCMichigan St.3-17,2023
 2023-03-17,post,TRUE,Iowa St.,B12,Pittsburgh,ACC,PittsburghIowa St.3-17,2023
 2023-03-17,post,TRUE,Marquette,BE,Vermont,AE,VermontMarquette3-17,2023
+2023-03-17,post,TRUE,Purdue,B10,Fairleigh Dickinson,NEC,Fairleigh DickinsonPurdue3-17,2023
 2023-03-17,post,TRUE,Connecticut,BE,Iona,MAAC,IonaConnecticut3-17,2023
 2023-03-17,post,TRUE,Creighton,BE,North Carolina St.,ACC,North Carolina St.Creighton3-17,2023
 2023-03-17,post,TRUE,Baylor,B12,UC Santa Barbara,BW,UC Santa BarbaraBaylor3-17,2023
@@ -6157,6 +6158,7 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-17,post,TRUE,Saint Mary's,WCC,VCU,A10,VCUSaint Mary's3-17,2023
 2023-03-17,post,TRUE,Kentucky,SEC,Providence,BE,ProvidenceKentucky3-17,2023
 2023-03-17,post,TRUE,Gonzaga,WCC,Grand Canyon,WAC,Grand CanyonGonzaga3-17,2023
+2023-03-17,post,TRUE,TCU,B12,Arizona St.,P12,Arizona St.TCU3-17,2023
 2023-03-18,post,TRUE,Indiana St.,MVC,USC Upstate,BSth,USC UpstateIndiana St.3-18,2023
 2023-03-18,post,TRUE,Southern Utah,WAC,North Alabama,ASun,North AlabamaSouthern Utah3-18,2023
 2023-03-18,post,TRUE,San Jose St.,MWC,Southern Indiana,OVC,Southern IndianaSan Jose St.3-18,2023
