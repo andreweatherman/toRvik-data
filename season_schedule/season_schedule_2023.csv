@@ -6176,10 +6176,18 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-18,post,TRUE,Charlotte,CUSA,Western Carolina,SC,Western CarolinaCharlotte3-18,2023
 2023-03-18,post,TRUE,Tennessee,SEC,Duke,ACC,DukeTennessee3-18,2023
 2023-03-19,post,FALSE,Wisconsin,B10,Liberty,ASun,LibertyWisconsin3-19,2023
+2023-03-19,post,TRUE,Connecticut,BE,Saint Mary's,WCC,Saint Mary'sConnecticut3-19,2023
+2023-03-19,post,TRUE,Baylor,B12,Creighton,BE,CreightonBaylor3-19,2023
+2023-03-19,post,TRUE,Gonzaga,WCC,TCU,B12,TCUGonzaga3-19,2023
 2023-03-19,post,FALSE,Colorado,P12,Utah Valley,WAC,Utah ValleyColorado3-19,2023
+2023-03-19,post,TRUE,Florida Atlantic,CUSA,Fairleigh Dickinson,NEC,Fairleigh DickinsonFlorida Atlantic3-19,2023
 2023-03-19,post,FALSE,Oregon,P12,UCF,Amer,UCFOregon3-19,2023
 2023-03-19,post,TRUE,Tarleton St.,WAC,Radford,BSth,RadfordTarleton St.3-19,2023
 2023-03-19,post,FALSE,Oklahoma St.,B12,Eastern Washington,BSky,Eastern WashingtonOklahoma St.3-19,2023
+2023-03-19,post,TRUE,Kansas St.,B12,Kentucky,SEC,KentuckyKansas St.3-19,2023
+2023-03-19,post,TRUE,Marquette,BE,Michigan St.,B10,Michigan St.Marquette3-19,2023
 2023-03-19,post,TRUE,Duquesne,A10,Rice,CUSA,RiceDuquesne3-19,2023
+2023-03-19,post,TRUE,Indiana,B10,Miami FL,ACC,Miami FLIndiana3-19,2023
 2023-03-19,post,TRUE,Stetson,ASun,Milwaukee,Horz,MilwaukeeStetson3-19,2023
+2023-03-19,post,TRUE,Xavier,BE,Pittsburgh,ACC,PittsburghXavier3-19,2023
 2023-03-19,post,TRUE,Eastern Kentucky,ASun,Cleveland St.,Horz,Cleveland St.Eastern Kentucky3-19,2023
