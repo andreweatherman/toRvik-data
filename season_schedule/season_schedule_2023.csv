@@ -6165,18 +6165,19 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-18,post,TRUE,San Jose St.,MWC,Southern Indiana,OVC,Southern IndianaSan Jose St.3-18,2023
 2023-03-18,post,TRUE,Missouri,SEC,Princeton,Ivy,PrincetonMissouri3-18,2023
 2023-03-18,post,FALSE,Hofstra,CAA,Cincinnati,Amer,CincinnatiHofstra3-18,2023
-2023-03-18,post,FALSE,UAB,CUSA,Morehead St.,OVC,Morehead St.UAB3-18,2023
 2023-03-18,post,TRUE,Houston,Amer,Auburn,SEC,AuburnHouston3-18,2023
+2023-03-18,post,TRUE,Western Carolina,SC,Charlotte,CUSA,CharlotteWestern Carolina3-18,2023
 2023-03-18,post,FALSE,Vanderbilt,SEC,Michigan,B10,MichiganVanderbilt3-18,2023
 2023-03-18,post,TRUE,Kansas,B12,Arkansas,SEC,ArkansasKansas3-18,2023
 2023-03-18,post,TRUE,Alabama,SEC,Maryland,B10,MarylandAlabama3-18,2023
 2023-03-18,post,TRUE,Texas,B12,Penn St.,B10,Penn St.Texas3-18,2023
-2023-03-18,post,FALSE,North Texas,CUSA,Sam Houston St.,WAC,Sam Houston St.North Texas3-18,2023
 2023-03-18,post,TRUE,UCLA,P12,Northwestern,B10,NorthwesternUCLA3-18,2023
-2023-03-18,post,TRUE,Charlotte,CUSA,Western Carolina,SC,Western CarolinaCharlotte3-18,2023
 2023-03-18,post,TRUE,Tennessee,SEC,Duke,ACC,DukeTennessee3-18,2023
+2023-03-19,post,FALSE,North Texas,CUSA,Sam Houston St.,WAC,Sam Houston St.North Texas3-19,2023
+2023-03-19,post,FALSE,UAB,CUSA,Morehead St.,OVC,Morehead St.UAB3-19,2023
 2023-03-19,post,FALSE,Wisconsin,B10,Liberty,ASun,LibertyWisconsin3-19,2023
 2023-03-19,post,TRUE,Connecticut,BE,Saint Mary's,WCC,Saint Mary'sConnecticut3-19,2023
+2023-03-19,post,TRUE,Cleveland St.,Horz,Eastern Kentucky,ASun,Eastern KentuckyCleveland St.3-19,2023
 2023-03-19,post,TRUE,Baylor,B12,Creighton,BE,CreightonBaylor3-19,2023
 2023-03-19,post,TRUE,Gonzaga,WCC,TCU,B12,TCUGonzaga3-19,2023
 2023-03-19,post,FALSE,Colorado,P12,Utah Valley,WAC,Utah ValleyColorado3-19,2023
@@ -6190,4 +6191,4 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-19,post,TRUE,Indiana,B10,Miami FL,ACC,Miami FLIndiana3-19,2023
 2023-03-19,post,TRUE,Stetson,ASun,Milwaukee,Horz,MilwaukeeStetson3-19,2023
 2023-03-19,post,TRUE,Xavier,BE,Pittsburgh,ACC,PittsburghXavier3-19,2023
-2023-03-19,post,TRUE,Eastern Kentucky,ASun,Cleveland St.,Horz,Cleveland St.Eastern Kentucky3-19,2023
+2023-03-24,post,TRUE,Alabama,SEC,San Diego St.,MWC,San Diego St.Alabama3-24,2023
