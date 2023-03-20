@@ -6191,4 +6191,19 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-19,post,TRUE,Indiana,B10,Miami FL,ACC,Miami FLIndiana3-19,2023
 2023-03-19,post,TRUE,Stetson,ASun,Milwaukee,Horz,MilwaukeeStetson3-19,2023
 2023-03-19,post,TRUE,Xavier,BE,Pittsburgh,ACC,PittsburghXavier3-19,2023
+2023-03-20,post,TRUE,Rice,CUSA,Southern Utah,WAC,Southern UtahRice3-20,2023
+2023-03-20,post,TRUE,Milwaukee,Horz,Charlotte,CUSA,CharlotteMilwaukee3-20,2023
+2023-03-20,post,TRUE,Eastern Kentucky,ASun,Indiana St.,MVC,Indiana St.Eastern Kentucky3-20,2023
+2023-03-20,post,TRUE,Radford,BSth,San Jose St.,MWC,San Jose St.Radford3-20,2023
+2023-03-21,post,FALSE,Oklahoma St.,B12,North Texas,CUSA,North TexasOklahoma St.3-21,2023
+2023-03-21,post,FALSE,Oregon,P12,Wisconsin,B10,WisconsinOregon3-21,2023
+2023-03-22,post,FALSE,Utah Valley,WAC,Cincinnati,Amer,CincinnatiUtah Valley3-22,2023
+2023-03-22,post,FALSE,Vanderbilt,SEC,UAB,CUSA,UABVanderbilt3-22,2023
+2023-03-23,post,TRUE,Kansas St.,B12,Michigan St.,B10,Michigan St.Kansas St.3-23,2023
+2023-03-23,post,TRUE,UCLA,P12,Gonzaga,WCC,GonzagaUCLA3-23,2023
+2023-03-23,post,TRUE,Tennessee,SEC,Florida Atlantic,CUSA,Florida AtlanticTennessee3-23,2023
+2023-03-23,post,TRUE,Connecticut,BE,Arkansas,SEC,ArkansasConnecticut3-23,2023
+2023-03-24,post,TRUE,Texas,B12,Xavier,BE,XavierTexas3-24,2023
+2023-03-24,post,TRUE,Creighton,BE,Princeton,Ivy,PrincetonCreighton3-24,2023
 2023-03-24,post,TRUE,Alabama,SEC,San Diego St.,MWC,San Diego St.Alabama3-24,2023
+2023-03-24,post,TRUE,Houston,Amer,Miami FL,ACC,Miami FLHouston3-24,2023
