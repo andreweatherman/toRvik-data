@@ -6195,8 +6195,10 @@ date,type,neutral,home,home_conf,away,away_conf,game_id,year
 2023-03-20,post,TRUE,Milwaukee,Horz,Charlotte,CUSA,CharlotteMilwaukee3-20,2023
 2023-03-20,post,TRUE,Eastern Kentucky,ASun,Indiana St.,MVC,Indiana St.Eastern Kentucky3-20,2023
 2023-03-20,post,TRUE,Radford,BSth,San Jose St.,MWC,San Jose St.Radford3-20,2023
+2023-03-21,post,TRUE,Eastern Kentucky,ASun,Southern Utah,WAC,Southern UtahEastern Kentucky3-21,2023
 2023-03-21,post,FALSE,Oklahoma St.,B12,North Texas,CUSA,North TexasOklahoma St.3-21,2023
 2023-03-21,post,FALSE,Oregon,P12,Wisconsin,B10,WisconsinOregon3-21,2023
+2023-03-21,post,TRUE,Radford,BSth,Charlotte,CUSA,CharlotteRadford3-21,2023
 2023-03-22,post,FALSE,Utah Valley,WAC,Cincinnati,Amer,CincinnatiUtah Valley3-22,2023
 2023-03-22,post,FALSE,Vanderbilt,SEC,UAB,CUSA,UABVanderbilt3-22,2023
 2023-03-23,post,TRUE,Kansas St.,B12,Michigan St.,B10,Michigan St.Kansas St.3-23,2023
