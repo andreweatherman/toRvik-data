@@ -5707,14 +5707,14 @@
 "5706",2023-01-14,"conf",FALSE,"UT ArlingtonNew Mexico St.1-14","New Mexico St.","WAC","UT Arlington","WAC",200,71,18,57,6,24,13,17,10,19,29,6,8,0,16,21,55
 "5707",2023-01-14,"conf",FALSE,"North DakotaDenver1-14","North Dakota","Sum","Denver","Sum",200,67.175,25,67,15,39,6,9,13,20,33,15,3,5,10,16,71
 "5708",2023-01-14,"conf",TRUE,"North DakotaDenver1-14","Denver","Sum","North Dakota","Sum",200,67.175,30,59,3,9,15,17,10,30,40,10,6,5,9,13,78
-"5709",2023-01-14,"conf",FALSE,"ProvidenceCreighton1-14","Providence","BE","Creighton","BE",200,68.525,25,65,4,19,13,15,15,29,44,9,4,4,12,19,67
-"5710",2023-01-14,"conf",TRUE,"ProvidenceCreighton1-14","Creighton","BE","Providence","BE",200,68.525,26,54,3,16,18,23,4,25,29,13,6,5,7,15,73
-"5711",2023-01-14,"conf",FALSE,"DavidsonGeorge Mason1-14","Davidson","A10","George Mason","A10",200,64.65,24,54,7,24,10,11,5,23,28,12,7,0,10,17,65
-"5712",2023-01-14,"conf",TRUE,"DavidsonGeorge Mason1-14","George Mason","A10","Davidson","A10",200,64.65,25,54,6,19,11,17,9,26,35,12,6,2,12,17,67
-"5713",2023-01-14,"conf",FALSE,"UtahUSC1-14","Utah","P12","USC","P12",200,62.825,21,61,8,25,6,6,10,19,29,12,9,4,10,13,56
-"5714",2023-01-14,"conf",TRUE,"UtahUSC1-14","USC","P12","Utah","P12",200,62.825,29,61,7,16,6,8,13,28,41,18,6,6,10,12,71
-"5715",2023-01-14,"conf",FALSE,"ColoradoUCLA1-14","Colorado","P12","UCLA","P12",200,68.1625,15,49,4,14,20,23,14,25,39,8,7,3,23,16,54
-"5716",2023-01-14,"conf",TRUE,"ColoradoUCLA1-14","UCLA","P12","Colorado","P12",200,68.1625,24,63,4,19,16,24,18,21,39,11,15,11,11,20,68
+"5709",2023-01-14,"conf",FALSE,"DavidsonGeorge Mason1-14","Davidson","A10","George Mason","A10",200,64.65,24,54,7,24,10,11,5,23,28,12,7,0,10,17,65
+"5710",2023-01-14,"conf",TRUE,"DavidsonGeorge Mason1-14","George Mason","A10","Davidson","A10",200,64.65,25,54,6,19,11,17,9,26,35,12,6,2,12,17,67
+"5711",2023-01-14,"conf",FALSE,"UtahUSC1-14","Utah","P12","USC","P12",200,62.825,21,61,8,25,6,6,10,19,29,12,9,4,10,13,56
+"5712",2023-01-14,"conf",TRUE,"UtahUSC1-14","USC","P12","Utah","P12",200,62.825,29,61,7,16,6,8,13,28,41,18,6,6,10,12,71
+"5713",2023-01-14,"conf",FALSE,"ColoradoUCLA1-14","Colorado","P12","UCLA","P12",200,68.1625,15,49,4,14,20,23,14,25,39,8,7,3,23,16,54
+"5714",2023-01-14,"conf",TRUE,"ColoradoUCLA1-14","UCLA","P12","Colorado","P12",200,68.1625,24,63,4,19,16,24,18,21,39,11,15,11,11,20,68
+"5715",2023-01-14,"conf",FALSE,"ProvidenceCreighton1-14","Providence","BE","Creighton","BE",200,68.525,25,65,4,19,13,15,15,29,44,9,4,4,12,19,67
+"5716",2023-01-14,"conf",TRUE,"ProvidenceCreighton1-14","Creighton","BE","Providence","BE",200,68.525,26,54,3,16,18,23,4,25,29,13,6,5,7,15,73
 "5717",2023-01-14,"conf",FALSE,"Miami FLNorth Carolina St.1-14","Miami FL","ACC","North Carolina St.","ACC",225,73.975,29,51,6,15,17,22,4,31,35,5,4,6,17,17,81
 "5718",2023-01-14,"conf",TRUE,"Miami FLNorth Carolina St.1-14","North Carolina St.","ACC","Miami FL","ACC",225,73.975,33,75,5,20,12,20,15,21,36,14,9,5,4,16,83
 "5719",2023-01-13,"conf",FALSE,"YaleCornell1-13","Yale","Ivy","Cornell","Ivy",200,72.5625,30,51,6,20,16,21,3,22,25,16,5,3,16,25,82
@@ -7059,10 +7059,10 @@
 "7058",2022-12-31,"conf",TRUE,"Austin PeayNorth Florida12-31","North Florida","ASun","Austin Peay","ASun",225,74.95,31,68,9,30,19,28,14,29,43,17,4,6,10,13,90
 "7059",2022-12-31,"conf",TRUE,"ChattanoogaMercer12-31","Chattanooga","SC","Mercer","SC",200,66.65,26,54,14,34,14,20,7,29,36,19,9,2,10,13,80
 "7060",2022-12-31,"conf",FALSE,"ChattanoogaMercer12-31","Mercer","SC","Chattanooga","SC",200,66.65,22,62,1,15,6,8,13,24,37,7,4,0,14,15,51
-"7061",2022-12-31,"conf",TRUE,"UC IrvineCal St. Bakersfield12-31","UC Irvine","BW","Cal St. Bakersfield","BW",200,71.525,22,40,5,11,30,51,6,30,36,8,2,4,13,24,79
-"7062",2022-12-31,"conf",FALSE,"UC IrvineCal St. Bakersfield12-31","Cal St. Bakersfield","BW","UC Irvine","BW",200,71.525,24,59,5,11,22,27,8,24,32,9,4,3,8,33,75
-"7063",2022-12-31,"conf",TRUE,"RiderCanisius12-31","Rider","MAAC","Canisius","MAAC",200,66.175,25,58,2,15,14,18,14,32,46,9,2,2,15,13,66
-"7064",2022-12-31,"conf",FALSE,"RiderCanisius12-31","Canisius","MAAC","Rider","MAAC",200,66.175,26,64,11,37,1,8,10,21,31,18,7,0,7,14,64
+"7061",2022-12-31,"conf",TRUE,"RiderCanisius12-31","Rider","MAAC","Canisius","MAAC",200,66.175,25,58,2,15,14,18,14,32,46,9,2,2,15,13,66
+"7062",2022-12-31,"conf",FALSE,"RiderCanisius12-31","Canisius","MAAC","Rider","MAAC",200,66.175,26,64,11,37,1,8,10,21,31,18,7,0,7,14,64
+"7063",2022-12-31,"conf",TRUE,"UC IrvineCal St. Bakersfield12-31","UC Irvine","BW","Cal St. Bakersfield","BW",200,71.525,22,40,5,11,30,51,6,30,36,8,2,4,13,24,79
+"7064",2022-12-31,"conf",FALSE,"UC IrvineCal St. Bakersfield12-31","Cal St. Bakersfield","BW","UC Irvine","BW",200,71.525,24,59,5,11,22,27,8,24,32,9,4,3,8,33,75
 "7065",2022-12-30,"conf",FALSE,"North CarolinaPittsburgh12-30","North Carolina","ACC","Pittsburgh","ACC",200,71.525,25,58,7,22,17,21,8,30,38,14,5,5,11,16,74
 "7066",2022-12-30,"conf",TRUE,"North CarolinaPittsburgh12-30","Pittsburgh","ACC","North Carolina","ACC",200,71.525,29,63,5,25,13,17,7,26,33,14,5,4,8,14,76
 "7067",2022-12-30,"conf",TRUE,"Miami FLNotre Dame12-30","Miami FL","ACC","Notre Dame","ACC",200,67.4125,29,57,5,17,13,20,9,23,32,10,11,3,9,11,76
@@ -12413,11 +12413,11 @@
 "12412",2022-11-07,"nc",TRUE,"SouthernUNLV11-7","UNLV","MWC","Southern","MWC",200,77.35,15,48,4,26,32,38,7,27,34,10,13,3,18,14,66
 "12413",2022-11-07,"nc",FALSE,"St. ThomasCreighton11-7","St. Thomas","Sum","Creighton","Sum",200,66.775,24,58,9,22,3,4,6,29,35,10,4,2,14,15,60
 "12414",2022-11-07,"nc",TRUE,"St. ThomasCreighton11-7","Creighton","BE","St. Thomas","BE",200,66.775,26,66,8,34,12,14,12,27,39,11,5,6,5,10,72
-"12415",2022-11-07,"nc",FALSE,"RicePepperdine11-7","Rice","CUSA","Pepperdine","CUSA",200,79.175,24,63,10,32,9,22,9,22,31,17,7,2,14,12,67
-"12416",2022-11-07,"nc",TRUE,"RicePepperdine11-7","Pepperdine","WCC","Rice","WCC",200,79.175,44,70,15,30,3,4,5,36,41,25,8,4,13,20,106
-"12417",2022-11-07,"nc",FALSE,"LehighSyracuse11-7","Lehigh","Pat","Syracuse","Pat",200,72.95,27,63,8,21,10,13,8,18,26,16,7,2,12,19,72
-"12418",2022-11-07,"nc",TRUE,"LehighSyracuse11-7","Syracuse","ACC","Lehigh","ACC",200,72.95,30,55,6,12,24,31,10,29,39,13,8,7,13,10,90
-"12419",2022-11-07,"nc",FALSE,"Delaware St.Virginia Tech11-7","Delaware St.","MEAC","Virginia Tech","MEAC",200,69.4125,24,62,4,16,5,7,7,17,24,9,5,2,12,18,57
-"12420",2022-11-07,"nc",TRUE,"Delaware St.Virginia Tech11-7","Virginia Tech","ACC","Delaware St.","ACC",200,69.4125,33,60,14,28,15,20,11,31,42,18,5,4,10,10,95
-"12421",2022-11-07,"nc",FALSE,"Robert MorrisOhio St.11-7","Robert Morris","Horz","Ohio St.","Horz",200,70.025,20,63,4,24,9,17,13,14,27,6,5,1,11,16,53
-"12422",2022-11-07,"nc",TRUE,"Robert MorrisOhio St.11-7","Ohio St.","B10","Robert Morris","B10",200,70.025,34,61,10,21,13,21,14,34,48,18,6,5,14,14,91
+"12415",2022-11-07,"nc",FALSE,"LehighSyracuse11-7","Lehigh","Pat","Syracuse","Pat",200,72.95,27,63,8,21,10,13,8,18,26,16,7,2,12,19,72
+"12416",2022-11-07,"nc",TRUE,"LehighSyracuse11-7","Syracuse","ACC","Lehigh","ACC",200,72.95,30,55,6,12,24,31,10,29,39,13,8,7,13,10,90
+"12417",2022-11-07,"nc",FALSE,"Delaware St.Virginia Tech11-7","Delaware St.","MEAC","Virginia Tech","MEAC",200,69.4125,24,62,4,16,5,7,7,17,24,9,5,2,12,18,57
+"12418",2022-11-07,"nc",TRUE,"Delaware St.Virginia Tech11-7","Virginia Tech","ACC","Delaware St.","ACC",200,69.4125,33,60,14,28,15,20,11,31,42,18,5,4,10,10,95
+"12419",2022-11-07,"nc",FALSE,"Robert MorrisOhio St.11-7","Robert Morris","Horz","Ohio St.","Horz",200,70.025,20,63,4,24,9,17,13,14,27,6,5,1,11,16,53
+"12420",2022-11-07,"nc",TRUE,"Robert MorrisOhio St.11-7","Ohio St.","B10","Robert Morris","B10",200,70.025,34,61,10,21,13,21,14,34,48,18,6,5,14,14,91
+"12421",2022-11-07,"nc",FALSE,"RicePepperdine11-7","Rice","CUSA","Pepperdine","CUSA",200,79.175,24,63,10,32,9,22,9,22,31,17,7,2,14,12,67
+"12422",2022-11-07,"nc",TRUE,"RicePepperdine11-7","Pepperdine","WCC","Rice","WCC",200,79.175,44,70,15,30,3,4,5,36,41,25,8,4,13,20,106
